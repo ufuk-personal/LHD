@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: EOSystems
+  m_EditorClassIdentifier: 
+  PageIdentifier: EOSystems
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: dccbb871b45c0554fb104fced18e137e, type: 2}
+  - {fileID: 1102801856952556, guid: 840396ebbb972b14faebe9b0a4c745b0, type: 2}
+  - {fileID: 1102801856952556, guid: f6316fc6317049140a073b5ca3b4f629, type: 2}
+  - {fileID: 1102801856952556, guid: ca1bb9cd4dd23b948b34cdfea8459944, type: 2}
+  - {fileID: 1102801856952556, guid: 3e698c0dae1d611419eb8eb09821b11b, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: E-O Systems
+  HeaderTextTR: EO Sistemler
+  CameraPathID: -1

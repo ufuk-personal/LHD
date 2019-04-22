@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: STAMP
+  m_EditorClassIdentifier: 
+  PageIdentifier: STAMP
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: e81184f3106e5ec47bcdff3250e78fb4, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 692b9f601d074f249b56f99cab3d5b94, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: adf4862651ea2224a992ccb4640ffa7b, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 3b53df781cfa70b4081791c1532982bc,
+    type: 2}
+  HeaderText: STAMP
+  HeaderTextTR: STAMP
+  CameraPathID: 22

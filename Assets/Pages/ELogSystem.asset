@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: ELogSystem
+  m_EditorClassIdentifier: 
+  PageIdentifier: ELogSystem
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 05a5188f6f143994b9c2d8b5894d1ca3, type: 2}
+  Images:
+  - {fileID: 21300000, guid: cd32abac4ebcfa748880b7cf95a15557, type: 3}
+  - {fileID: 21300000, guid: 8888436bd9ac1e644885b1703caa0ebe, type: 3}
+  TextPrefab: {fileID: 1811604452916342, guid: acfa83a20bd98b54898e567a1552f6a0, type: 2}
+  HeaderText: ELECTROMAGNETIC LOG SYSTEM ( AGILOG )
+  CameraPathID: 9

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Echosounder
+  m_EditorClassIdentifier: 
+  PageIdentifier: Echosounder
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 05a5188f6f143994b9c2d8b5894d1ca3, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 2de1a71fd1dfbc74e8547be021d701f8, type: 3}
+  - {fileID: 21300000, guid: befe0dbc6b45cc44090122bcbbac9c68, type: 3}
+  - {fileID: 21300000, guid: f27a6cd2c3283144fa492173cc8ee585, type: 3}
+  - {fileID: 21300000, guid: 7e46741cc94548041b7fa663de1792e0, type: 3}
+  TextPrefab: {fileID: 1001242338657988, guid: bb11163150e8b0447b0b54dce69972a7, type: 2}
+  HeaderText: "ECHOSOUNDER (ASELSAN KULA\xC7)"
+  CameraPathID: 9

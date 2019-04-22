@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Air Defence Systems
+  m_EditorClassIdentifier: 
+  PageIdentifier: Air Defence Systems
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 41837755473061248886b392f5ba87dd, type: 2}
+  - {fileID: 1102801856952556, guid: c8e94ed658a749a47811562a76c0b808, type: 2}
+  - {fileID: 1102801856952556, guid: 6b3cf64299bf7a74e873181d5c0aa271, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: "A\u0130R DEFANCE SYSTEMS"
+  HeaderTextTR: "HAVA SAVUNMA S\u0130STEMLER\u0130"
+  CameraPathID: -1

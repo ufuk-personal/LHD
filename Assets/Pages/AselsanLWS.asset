@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: AselsanLWS
+  m_EditorClassIdentifier: 
+  PageIdentifier: AselsanLWS
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: f70b4ec836a384e42b94dcb0bab341e8, type: 2}
+  Images:
+  - {fileID: 21300000, guid: f7cc38f94160b194e9d5801a083c977b, type: 3}
+  TextPrefab: {fileID: 1248732831549900, guid: 395df72eed0eda641aa74f303de94a9e, type: 2}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: LASER WARNING SYSTEM ( ASELSAN LWS )
+  HeaderTextTR: 
+  CameraPathID: 0

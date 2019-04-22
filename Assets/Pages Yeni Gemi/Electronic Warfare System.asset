@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Electronic Warfare System
+  m_EditorClassIdentifier: 
+  PageIdentifier: Electronic Warfare System
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 41837755473061248886b392f5ba87dd, type: 2}
+  - {fileID: 1102801856952556, guid: e51549d715c3ec347b8bcd49a10bd45c, type: 2}
+  - {fileID: 1102801856952556, guid: 5b73cebf56b00e645a438cae919bbbaa, type: 2}
+  - {fileID: 1102801856952556, guid: 490b5819c5777ac49be2de8dd8dd75e6, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: ELECTRONIC WARFARE SYSTEMS
+  HeaderTextTR: "ELEKTRON\u0130K HARP S\u0130STEMLER\u0130"
+  CameraPathID: -1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Smart S
+  m_EditorClassIdentifier: 
+  PageIdentifier: smarts
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 131578f85c4d4c946a1e4c7958f0e8d3, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 5d7111182e064634da4ed1ca928f8d3e, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: e10e9fc82b88e964ba9a15c2897bb040, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: a1e3b1c910e326f478f4d1818fad423a,
+    type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - smarts
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: SMART-S
+  HeaderTextTR: SMART-S
+  CameraPathID: 2

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Alper
+  m_EditorClassIdentifier: 
+  PageIdentifier: Alper
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 131578f85c4d4c946a1e4c7958f0e8d3, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 306b8176626a56a4dad3da0814195828, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 2011d6361b938cb4695e8ac54df4eeb6, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 06c46cdf71c76a840a3c85b7593121fc,
+    type: 2}
+  HeaderText: ALPER
+  HeaderTextTR: ALPER
+  CameraPathID: 5

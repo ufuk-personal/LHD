@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Ship Info
+  m_EditorClassIdentifier: 
+  PageIdentifier: Ship Info
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 41837755473061248886b392f5ba87dd, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 801cf3ab8096eb747bc46c881300e13e, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 96790d4d383b8c64cb270d3dd15db3c5, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 127bb50fb5bc77e44b0889a710f37d2b,
+    type: 2}
+  HeaderText: "SH\u0130P INFO"
+  HeaderTextTR: "GEM\u0130 B\u0130LG\u0130LER\u0130"
+  CameraPathID: 10

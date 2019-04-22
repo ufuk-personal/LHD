@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Navigation
+  m_EditorClassIdentifier: 
+  PageIdentifier: NavigationSytems
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: e979b9280cf3cb04eadb2a124fac56c6, type: 2}
+  - {fileID: 1131538924216208, guid: b8697c6e25c3d0b46a4ceb12bbc8e755, type: 2}
+  - {fileID: 1080409549604700, guid: 885c729b464b3f8499e5b1f48d696f3e, type: 2}
+  - {fileID: 1571155594031278, guid: 8b78a041d17929e4f97a27f5a226537a, type: 2}
+  - {fileID: 1972553909603748, guid: b2731c8e4c8eca24d91b228ebf003771, type: 2}
+  - {fileID: 1551586031488070, guid: fbdc478b6503f5146b2ad32e04189c76, type: 2}
+  - {fileID: 1130161941732116, guid: d4641f13ccee8be48981a37aa2eebfe1, type: 2}
+  - {fileID: 1627918712945956, guid: 577467ad42e0cbe4bbc9cf459fc4ab67, type: 2}
+  - {fileID: 1916265982871536, guid: 7fb47ecb383ba4945b17042f34b4dba4, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: NAVIGATION SYSTEMS
+  HeaderTextTR: 
+  CameraPathID: -1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: PAR_R
+  m_EditorClassIdentifier: 
+  PageIdentifier: PAR_R
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 33de20a4c98b9be449408dedff283580, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 7ed8c817fe8212140a6cba93904436a4, type: 3}
+  - {fileID: 21300000, guid: 94dc81d578894fb41ba2f8ad260f86a5, type: 3}
+  TextPrefab: {fileID: 1819035244549908, guid: ea772a61ff856e94c8a10198ddd56951, type: 2}
+  HeaderText: PRECISION APPROACH RADAR ( PAR )
+  CameraPathID: 16

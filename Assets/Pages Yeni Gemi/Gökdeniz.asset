@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: "G\xF6kdeniz"
+  m_EditorClassIdentifier: 
+  PageIdentifier: "G\xD6KDEN\u0130Z"
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 40f4ec9708759ac44bdbca51f6bdcb9c, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 33bab7d57d9c79845ae31f0521ca0b64, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 7c8c5613b9faea1469b7b59ccaf8279c, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 150e054bbd7c0cb44a0eeefb53d88bcb,
+    type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - gokdeniz
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: "G\xD6KDEN\u0130Z"
+  HeaderTextTR: "G\xD6KDEN\u0130Z"
+  CameraPathID: 17

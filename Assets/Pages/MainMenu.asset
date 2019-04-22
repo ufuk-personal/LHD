@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: MainMenu
+  m_EditorClassIdentifier: 
+  PageIdentifier: MainMenu
+  ButtonPrefabs:
+  - {fileID: 1597534072845444, guid: dbb9a2a00b7ee9342ba6fa9b33dd1513, type: 2}
+  - {fileID: 1102801856952556, guid: 64a8d1355c797fe42a9561b5cbb78277, type: 2}
+  - {fileID: 1376569859191760, guid: fe999d761e5f7bd4c91daa4c352d20ac, type: 2}
+  - {fileID: 1295508213623148, guid: e678a71d99d900d4289d18d8ab361181, type: 2}
+  - {fileID: 1582156307440640, guid: b13521e256beda049a94d99d8f1b41bd, type: 2}
+  - {fileID: 1035819781533576, guid: 87a2bc93a13d6624ab7c98eca838cf8d, type: 2}
+  - {fileID: 1498687124331210, guid: 84caf604ae2dd434185b2e8079281e1f, type: 2}
+  - {fileID: 1553385966062342, guid: db0be09bb672b3247875519f21297b53, type: 2}
+  - {fileID: 1549748399327768, guid: 0f11ced862acb22478e459993a6a62f2, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  HeaderText: HOME
+  CameraPathID: 0

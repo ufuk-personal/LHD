@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: MainMenu Yeni
+  m_EditorClassIdentifier: 
+  PageIdentifier: MainMenu
+  ButtonPrefabs:
+  - {fileID: 1102801856952556, guid: 7621ffeb96425d54aa901b73bf206913, type: 2}
+  - {fileID: 1102801856952556, guid: d33ccc0daf0702d4ab5f3459a0ac900b, type: 2}
+  - {fileID: 1102801856952556, guid: f6acba9b0751b044aa4dc96cec6d87c6, type: 2}
+  - {fileID: 1102801856952556, guid: c7415c593c660ce4ead5eeea75df8d6c, type: 2}
+  - {fileID: 1102801856952556, guid: 3c35af7b638274b4e9053e9745ce788a, type: 2}
+  - {fileID: 1102801856952556, guid: 5796a419590a7e24db8743148814579d, type: 2}
+  - {fileID: 1102801856952556, guid: 06dafcdb9f9ce364f8467034843465d8, type: 2}
+  - {fileID: 1102801856952556, guid: 71ef2329587577b419df3c4477aa21d7, type: 2}
+  - {fileID: 1102801856952556, guid: a22d2f40b28a89246af07d7116543490, type: 2}
+  - {fileID: 1102801856952556, guid: 59aa705d569a2fb4b8b2d258bdc392ad, type: 2}
+  - {fileID: 1102801856952556, guid: a8b459a6525f6e846b659de58be94c93, type: 2}
+  Images: []
+  TextPrefab: {fileID: 0}
+  TextPrefabTR: {fileID: 0}
+  HeaderText: "Geminin \u0130smi"
+  HeaderTextTR: "Geminin \u0130smi"
+  CameraPathID: 0

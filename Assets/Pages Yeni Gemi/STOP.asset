@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: STOP
+  m_EditorClassIdentifier: 
+  PageIdentifier: STOP
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: e81184f3106e5ec47bcdff3250e78fb4, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 184a3deb3a6aa554b9a4e09f810cbd40, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 290a128bb5bca7e40a090451b1ed2db8, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: d2b80a5c0e77523479fd8820d7c2b05e,
+    type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - stop
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: STOP
+  HeaderTextTR: STOP
+  CameraPathID: 21

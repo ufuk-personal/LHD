@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: SatelliteCommunication
+  m_EditorClassIdentifier: 
+  PageIdentifier: SatelliteCommunication
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: c9119790b65df214ba77c99b00a20460, type: 2}
+  Images: []
+  TextPrefab: {fileID: 1581488871277260, guid: cb6217576324f0a4180116c791202627, type: 2}
+  HeaderText: SATELLITE COMMUNICATION SYSTEM
+  CameraPathID: 9

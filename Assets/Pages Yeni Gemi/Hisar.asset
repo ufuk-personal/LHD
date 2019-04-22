@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Hisar
+  m_EditorClassIdentifier: 
+  PageIdentifier: "H\u0130SAR"
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 40f4ec9708759ac44bdbca51f6bdcb9c, type: 2}
+  Images:
+  - {fileID: 21300000, guid: fba02fd8b8ac78c458a7145271c97ba4, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 3b8ae4ca4cd5f3746ab9edb62e40f461, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 8428702aecde4aa4e8ee8b24b3ebe1dc,
+    type: 2}
+  HeaderText: "H\u0130SAR "
+  HeaderTextTR: "H\u0130SAR"
+  CameraPathID: 18

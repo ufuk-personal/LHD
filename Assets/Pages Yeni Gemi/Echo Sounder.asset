@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Echo Sounder
+  m_EditorClassIdentifier: 
+  PageIdentifier: Echo Sounder
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: f8ad33ea5208bcf4aaf2cf4ba012e749, type: 2}
+  Images:
+  - {fileID: 21300000, guid: 606e12d8d6b1d214fbf6125b02d2f318, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: 543aeea142a27e7489ce6835d26734b2, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: 73b0bdf8b4f59af41b8e45fc0a186fad,
+    type: 2}
+  TransparentObjects:
+  - sidePanel
+  BlinkingObjects: []
+  PageSpecificObjects: []
+  HeaderText: ECHO SOUNDER
+  HeaderTextTR: "\u0130SKAND\u0130L"
+  CameraPathID: 10

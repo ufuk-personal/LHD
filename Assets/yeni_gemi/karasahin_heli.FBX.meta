@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: c8f7bb7b111d26f4596eb31fe5e118d3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cabinDoor_L
+    100002: cabinDoor_R
+    100004: Door_L
+    100006: Door_R
+    100008: Dummy001
+    100010: elevator
+    100012: fuselage
+    100014: //RootNode
+    100016: main_rotor
+    100018: rear_rotor
+    100020: rear_Tyre
+    100022: skorsky
+    100024: Tyre_L
+    100026: tyre_R
+    100028: Window_L1
+    100030: Window_L2
+    100032: window_R1
+    100034: Window_R2
+    400000: cabinDoor_L
+    400002: cabinDoor_R
+    400004: Door_L
+    400006: Door_R
+    400008: Dummy001
+    400010: elevator
+    400012: fuselage
+    400014: //RootNode
+    400016: main_rotor
+    400018: rear_rotor
+    400020: rear_Tyre
+    400022: skorsky
+    400024: Tyre_L
+    400026: tyre_R
+    400028: Window_L1
+    400030: Window_L2
+    400032: window_R1
+    400034: Window_R2
+    2100000: 'vray Material #37'
+    2100002: 01 - Default
+    2100004: 'vray Material #34'
+    2100006: 'vray Material #32'
+    2100008: 02 - Default
+    2100010: 02 - Defaultasda
+    2300000: cabinDoor_L
+    2300002: cabinDoor_R
+    2300004: Door_L
+    2300006: Door_R
+    2300008: elevator
+    2300010: fuselage
+    2300012: main_rotor
+    2300014: rear_rotor
+    2300016: rear_Tyre
+    2300018: Tyre_L
+    2300020: tyre_R
+    2300022: Window_L1
+    2300024: Window_L2
+    2300026: window_R1
+    2300028: Window_R2
+    3300000: cabinDoor_L
+    3300002: cabinDoor_R
+    3300004: Door_L
+    3300006: Door_R
+    3300008: elevator
+    3300010: fuselage
+    3300012: main_rotor
+    3300014: rear_rotor
+    3300016: rear_Tyre
+    3300018: Tyre_L
+    3300020: tyre_R
+    3300022: Window_L1
+    3300024: Window_L2
+    3300026: window_R1
+    3300028: Window_R2
+    4300000: rear_rotor
+    4300002: window_R1
+    4300004: Window_R2
+    4300006: Window_L1
+    4300008: Window_L2
+    4300010: Tyre_L
+    4300012: rear_Tyre
+    4300014: tyre_R
+    4300016: elevator
+    4300018: Door_L
+    4300020: Door_R
+    4300022: cabinDoor_R
+    4300024: cabinDoor_L
+    4300026: fuselage
+    4300028: main_rotor
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: f23b247db851d464dad24af8bb415759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: a6c327177df7de447a1fc0fcbb6ec492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaultasda
+    second: {fileID: 2100000, guid: 6910eee81a3589a4ea11c34ae03dc23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #32'
+    second: {fileID: 2100000, guid: 766b7841b616ea94482b3aefb48a5f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #34'
+    second: {fileID: 2100000, guid: 89cf6d4c0155d27438d3f3643a40a4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #37'
+    second: {fileID: 2100000, guid: 614631285595792458c804f672fa20d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

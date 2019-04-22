@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2f1ffef1647c85458c6d5642d9b3dc8, type: 3}
+  m_Name: Hull Mounted Sonar
+  m_EditorClassIdentifier: 
+  PageIdentifier: Hull Mounted Sonar
+  ButtonPrefabs:
+  - {fileID: 1385111823481038, guid: 886e5859eaa105f42bb9387c325677d2, type: 2}
+  Images:
+  - {fileID: 21300000, guid: ad4544d944ffb164ca551c02e06361a2, type: 3}
+  - {fileID: 21300000, guid: 011ca5ff9258f454196e6b216b3188f9, type: 3}
+  - {fileID: 21300000, guid: eacca11e59a7cdd4c83930c9a06e896c, type: 3}
+  TextPrefab: {fileID: 1546654663387790, guid: e0e915e4b321ff141ab8b763d20c6872, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: d9fbe7eb7b05e3f488565570b978857d,
+    type: 2}
+  HeaderText: HULL MOUNTED SONAR
+  HeaderTextTR: "KAR\u0130NAYA MONTEL\u0130 S\u0130STEM"
+  CameraPathID: 10
