@@ -20,6 +20,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1012910424116282, guid: e128a639d6e785741b0d53a2af10814c, type: 2}
   TextPrefabTR: {fileID: 1012910424116282, guid: 37bcad71da7abf1408bf327bbd741612,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - hizir
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: TORPIDO COUNTERMEASURE ( ASELSAN HIZIR )
-  HeaderTextTR: 
+  HeaderTextTR: "H\u0131z\u0131r"
   CameraPathID: 2

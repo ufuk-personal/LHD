@@ -1177,6 +1177,7 @@ MonoBehaviour:
   - {fileID: 743171527}
   - {fileID: 232301344}
   cameraLookAt: {fileID: 534669907}
+  switchSpeed: 5
 --- !u!1 &187634716
 GameObject:
   m_ObjectHideFlags: 0
@@ -6510,6 +6511,35 @@ MonoBehaviour:
     value: {x: 0, y: 0, z: 30}
     space: 1
   ignoreTimescale: 0
+--- !u!1 &1014144006 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100252, guid: ed0edc1c36d3bb44ba9890da3a2f2fec,
+    type: 3}
+  m_PrefabInternal: {fileID: 1014143992}
+--- !u!114 &1014144007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1014144006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3145a74effe5cc14f9a181f8a5d83a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: hizir
+--- !u!114 &1014144008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1014143995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3145a74effe5cc14f9a181f8a5d83a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: smarts
 --- !u!1001 &1015198041
 Prefab:
   m_ObjectHideFlags: 0
@@ -11922,7 +11952,7 @@ Prefab:
     - target: {fileID: 224610758001884760, guid: ae8fa5a91157eca418d2fa1aa9415671,
         type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 224610758001884760, guid: ae8fa5a91157eca418d2fa1aa9415671,
         type: 2}
@@ -12652,6 +12682,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f7a81b675175e37479afb13eb794b92d, type: 2}
   - {fileID: 11400000, guid: 111e0fa561140014b8a29ab2dcb0ab77, type: 2}
   - {fileID: 11400000, guid: 31611646ae3addb45b71d2a716a087d6, type: 2}
+  PageSpecificObjects: []
   ButtonContainer: {fileID: 843594201}
   HeaderText: {fileID: 1223394169}
   ImageContainer: {fileID: 975687709}

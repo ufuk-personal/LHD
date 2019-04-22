@@ -18,5 +18,13 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 771a467668008694d8136664cd5d1681, type: 3}
   - {fileID: 21300000, guid: 0509dcc18b6ba254eb0d20c92caf4b2d, type: 3}
   TextPrefab: {fileID: 1004141378006804, guid: 926d6ebec74e0174d915f2cbbee57636, type: 2}
+  TextPrefabTR: {fileID: 1004141378006804, guid: 9465cd7f5e230a54dbd1e0875e244720,
+    type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - smarts
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: 3D SEARCH RADAR ( SMART-S )
+  HeaderTextTR: 3 BOYUTLU ARANA RADARI
   CameraPathID: 3
