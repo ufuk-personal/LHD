@@ -22,7 +22,8 @@ MonoBehaviour:
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
-  HeaderText: DPT
-  HeaderTextTR: "S\u0130M"
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: MITOS DPT
+  HeaderTextTR: "MITOS S\u0130M"
   CameraPathID: 10

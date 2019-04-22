@@ -54,7 +54,7 @@ GameObject:
   - component: {fileID: 114998469658066316}
   - component: {fileID: 222241443537084094}
   m_Layer: 5
-  m_Name: Torpedo Launching SystemTextsTR
+  m_Name: DafrafTextsTR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -110,13 +110,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Torpido At\u0131c\u0131 Sistem</b></color>\r\n\r\n<i>Torpido
-    At\u0131c\u0131 Sistem</i>\r\n\r\n<i>HIZIR sistemi torpidolar\u0131 yeterli reaksiyon
-    s\xFCresi sa\u011Flayacak \u015Fekilde uzun mesafeden tespit edebilmekte ve k\xFCt\xFCphane
-    bilgisine ba\u011Fl\u0131 olarak s\u0131n\u0131fland\u0131rabilmektedir.</i>\r\n\r\n\u0130kili
-    sabit torpido kovan\u0131\r\nNATO standard\u0131 hafif torpidolar\u0131n at\u0131\u015F
-    yetene\u011Fi\r\nH\u0131zl\u0131 reaksiyon \r\nLokal ve rimot at\u0131\u015F kabiliyeti
-    \r\n"
+  m_Text: "<color=#ffff00><b>AHTAPOT</b></color>\r\n\r\n<i>Elektro Optik Arama ve
+    Takip Sistemi</i>\r\n<i>AHTAPOT, deniz uygulamalar\u0131 i\xE7in \xF6zel olarak
+    geli\u015Ftirilmi\u015F, \xE7ok sens\xF6rl\xFC ve y\xFCksek performansl\u0131
+    Elektro-Optik Ke\u015Fif ve G\xF6zetleme Sistemi\u2019dir.</i>\r\n\r\n\u2022 Ke\u015Fif,
+    G\xF6zetleme ve At\u0131\u015F Kanal\u0131\r\n\u2022 Y\xFCksek Performansl\u0131
+    Termal Kamera \r\n\u2022 Y\xFCksek Performansl\u0131 G\xFCnd\xFCz TV Kamera \r\n\u2022
+    G\xF6ze Zarars\u0131z Lazer Mesafe \xD6l\xE7er \r\n\u2022 Uzun Mesafe Tespit/Te\u015Fhis/Tan\u0131ma
+    Spotter Kamera\r\n\u2022 Otomatik Hedef Tespiti ve \u0130zleme\r\n\u2022 Lazer
+    Hedef \u0130\u015Faretleyici (Opsiyonel)\r\n\u2022 \xC7oklu Hedef Takibi"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1

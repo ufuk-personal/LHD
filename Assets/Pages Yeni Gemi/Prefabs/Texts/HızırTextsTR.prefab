@@ -110,22 +110,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>HIZIR</b></color>\r\n\r\n<i>SU\xDCST\xDC GEMILERI I\xC7IN
-    TORPIDO KAR\u015EI TEDBIR SISTEMI</i>\r\n<i>HIZIR sistemi torpidolar\u0131 yeterli
-    reaksiyon s\xFCresi sa\u011Flayacak \u015Fekilde uzun mesafeden tespit edebilmekte
-    ve k\xFCt\xFCphane bilgisine ba\u011Fl\u0131 olarak s\u0131n\u0131fland\u0131rabilmektedir.</i>\r\n\r\n\u2022
-    Tespit, Konumlama, S\u0131n\u0131fland\u0131rma \r\n- Uzak menzilden torpido tespiti
-    \r\n- Hassas tehdit takibi \r\n- K\xFCt\xFCphane destekli s\u0131n\u0131fland\u0131rma
-    \r\n- Tespit an\u0131nda sa\u011F/sol ayr\u0131m\u0131 \r\n\u2022 Karar Destek
-    \u0130mkanlar\u0131 \r\n- Operat\xF6r konsolu \r\n- SHM/K\xF6pr\xFC\xFCst\xFC
-    Kontrol/G\xF6sterge \r\n- Kullan\u0131c\u0131 tan\u0131ml\u0131 kar\u015F\u0131
-    tedbir taktikleri \r\n- Sava\u015F Y\xF6netim Sistemi ile kar\u015F\u0131l\u0131kl\u0131
-    bilgi aktar\u0131m\u0131 \r\n- Sonar ile veri aray\xFCz\xFC \r\n\u2022 Kar\u015F\u0131
-    Tedbir Uygulamalar\u0131 \r\n- Geni\u015F/dar bant akustik kar\u0131\u015Ft\u0131rma
-    \r\n- Programlanabilir sarfedilebilir dekoy \r\n- Programlanabilir \xE7ekili dekoy
-    \r\n- Sak\u0131nma manevra tavsiyesi \r\n\u2022 Teknik imkanlar \r\n- Modern ve
-    geli\u015Fmeye a\xE7\u0131k mimari \r\n- Ayn\u0131 anda birden fazla torpidoya
-    kar\u015F\u0131 savunma \r\n- Alt\u0131 adet hedef izleme "
+  m_Text: "<color=#ffff00><b>HIZIR</b></color>\r\n\r\n<i>Su\xFCst\xFC Gemileri i\xE7in
+    Torpido Kar\u0131\u015Ft\u0131rma ve Aldatma Sistemi</i>\r\n\r\n<i>HIZIR sistemi
+    torpidolar\u0131 yeterli reaksiyon s\xFCresi sa\u011Flayacak \u015Fekilde uzun
+    mesafeden tespit edebilmekte ve k\xFCt\xFCphane bilgisine ba\u011Fl\u0131 olarak
+    s\u0131n\u0131fland\u0131rabilmektedir.</i>\r\n\r\nTespit, Konumlama, S\u0131n\u0131fland\u0131rma
+    \r\nUzak menzilden torpido tespiti \r\nHassas tehdit takibi \r\nK\xFCt\xFCphane
+    destekli s\u0131n\u0131fland\u0131rma \r\nTespit an\u0131nda sa\u011F/sol ayr\u0131m\u0131
+    \r\nKarar Destek \u0130mkanlar\u0131 \r\nOperat\xF6r konsolu \r\nSHM/K\xF6pr\xFC\xFCst\xFC
+    Kontrol/G\xF6sterge \r\nKullan\u0131c\u0131 tan\u0131ml\u0131 kar\u015F\u0131
+    tedbir taktikleri \r\nSava\u015F Y\xF6netim Sistemi ile kar\u015F\u0131l\u0131kl\u0131
+    bilgi aktar\u0131m\u0131 \r\nSonar ile veri aray\xFCz\xFC \r\nKar\u015F\u0131
+    Tedbir Uygulamalar\u0131 \r\nGeni\u015F/dar bant akustik kar\u0131\u015Ft\u0131rma
+    \r\nProgramlanabilir sarfedilebilir dekoy \r\nProgramlanabilir \xE7ekili dekoy
+    \r\nSak\u0131nma manevra tavsiyesi \r\nTeknik imkanlar \r\nModern ve geli\u015Fmeye
+    a\xE7\u0131k mimari \r\nAyn\u0131 anda birden fazla torpidoya kar\u015F\u0131
+    savunma \r\nAlt\u0131 adet hedef izleme \r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -290,5 +290,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 809.3}
+  m_SizeDelta: {x: 0, y: 818.7}
   m_Pivot: {x: 0, y: 1}

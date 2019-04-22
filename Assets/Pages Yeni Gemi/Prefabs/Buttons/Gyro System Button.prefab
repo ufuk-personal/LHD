@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "CAYRO S\u0130STEM\u0130"
+  m_Text: "ANS 510-D CAYRO S\u0130STEM\u0130"
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -266,7 +266,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: GYRO SYSTEM
+  m_Text: ANS 510-D GYRO SYSTEM
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

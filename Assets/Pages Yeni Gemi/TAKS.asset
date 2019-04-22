@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 294409d2afab79449a8906171ebccbd3, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: de6d03bf278fdea4c9716ed178e97194,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - taks
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: TAKS
   HeaderTextTR: TAKS
   CameraPathID: 20

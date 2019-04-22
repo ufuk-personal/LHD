@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 290f15302fd0e6d42b5c2fe7dc084490, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 856657905127f9e449727d5ffb55c488,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - ahtapot
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: AHTAPOT
   HeaderTextTR: AHTAPOT
   CameraPathID: 7

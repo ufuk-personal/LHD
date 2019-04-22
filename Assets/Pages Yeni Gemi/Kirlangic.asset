@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 8f8b27297ae65454a869d003cfa05e0e, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 1aade79ea09694f4487e00d273787fdf,
     type: 2}
-  HeaderText: "KIRLANGI\xC7"
+  TransparentObjects: []
+  BlinkingObjects:
+  - "k\u0131rlang\u0131c"
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: KIRLANGIC
   HeaderTextTR: "KIRLANGI\xC7"
   CameraPathID: 8

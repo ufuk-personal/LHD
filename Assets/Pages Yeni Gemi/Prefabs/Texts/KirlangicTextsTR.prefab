@@ -110,12 +110,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>KIRLANGI\xC7</b></color>\r\n\r\n<i>Electro-Optic Director</i>\r\n<i>KIRLANGIC
-    Electro-Optical Reconnaissance and Surveillance System is a high performance electro-optical
-    system designed for maritime platforms</i>\r\n\r\n\u2022 High Performance IR Camera\r\n\u2022
-    High Definition TV Camera \r\n\u2022 Eye Safe Laser Range Finder \r\n\u2022 High
-    Stabilization Performance even on FPB\u2019s\r\n\u2022 Automatic Target Detection\r\n\u2022
-    Laser Pointer\r\n\u2022 Accurate Target Geo-Location"
+  m_Text: "\r\n<color=#ffff00><b>KIRLANGI\xC7</b></color>\r\n\r\n<i>Elektro Optik
+    Arama ve Takip Sistemi</i>\r\n<i>KIRLANGI\xC7, deniz uygulamalar\u0131 i\xE7in
+    geli\u015Ftirilmi\u015F y\xFCksek performansl\u0131 Elektro-Optik Ke\u015Fif ve
+    G\xF6zetleme Sistemi\u2019dir.</i>\r\n\r\nK\xFC\xE7\xFCk ve Hafif Sistem\r\nY\xFCksek
+    Performansl\u0131 Termal Kamera \r\nY\xFCksek Performansl\u0131 G\xFCnd\xFCz TV
+    Kamera \r\nG\xF6ze Zarars\u0131z Lazer Mesafe \xD6l\xE7er \r\nLazer Noktalay\u0131c\u0131\r\nOtomatik
+    Hedef Tespiti ve \u0130zleme\r\nHassas Stabilizasyon ve Hedef Konum Takibi\r\nGPS
+    Al\u0131c\u0131s\u0131 (Opsiyonel)"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,6 +281,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 463.4}
+  m_AnchoredPosition: {x: 0, y: 0.000016898617}
+  m_SizeDelta: {x: 0, y: 526}
   m_Pivot: {x: 0, y: 1}

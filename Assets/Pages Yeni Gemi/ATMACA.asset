@@ -20,9 +20,10 @@ MonoBehaviour:
   TextPrefabTR: {fileID: 1546654663387790, guid: d5bdb8e79c734104b9d22b0cbf2bc499,
     type: 2}
   TransparentObjects: []
-  BlinkingObjects: []
+  BlinkingObjects:
+  - atmaca
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: ATMACA
+  HeaderText: ATMACA SSM
   HeaderTextTR: ATMACA
   CameraPathID: 19

@@ -110,9 +110,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>MAR-D</b></color>\r\n\r\n<i>3 Boyutlu Arama Radar\u0131</i>\r\n<i>A\u011F\u0131rl\u0131k,
-    boyutlar, g\xFC\xE7 sarfiyat\u0131 ve hava so\u011Futmal\u0131 yap\u0131 ile \xF6zellikle
-    h\xFCcumbot vb. k\xFC\xE7\xFCk platformlar i\xE7in uygun 3B Arama Radar\u0131</i>\r\n\r\n\u2022
+  m_Text: "<color=#ffff00><b>MAR-D</b></color>\r\n\r\n<i>3 Boyutlu Arama Radar\u0131</i>\r\n<i>ASELSAN
+    taraf\u0131ndan \xFCretilen 3 boyutlu, \xE7oklu huzmeli deniz platformu arama
+    radar\u0131, k\u0131sa menzilden orta menzile kadar kullan\u0131labilen, hava
+    ve su\xFCst\xFC g\xF6zetlemesi ile hedef tespiti yapabilen bir radard\u0131r.</i>\r\n\r\n\u2022
     X Bant\r\n\u2022 100km etkinlik menzili\r\n\u2022 70 derece irtifa kapsama\r\n\u2022
     Elektronik stabilize faz dizili anten\r\n\u2022 Kat\u0131hal g\xF6nderme alma
     mod\xFClleri\r\n\u2022 200 e\u015Fzamanl\u0131 hava ve su \xFCst\xFC izi takip\r\n\u2022
@@ -268,7 +269,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 169.4}
   m_Pivot: {x: 0, y: 1}
 --- !u!224 &224905458609163698
 RectTransform:
@@ -287,5 +288,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 696.1}
+  m_SizeDelta: {x: 0, y: 736.8}
   m_Pivot: {x: 0, y: 1}

@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: b6ab40a5337362c49b14f567fde3764c, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 264c9df9ee237134ea9015ef17b16464,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - asrls
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ASRLS
   HeaderTextTR: DHS RAS
   CameraPathID: 16

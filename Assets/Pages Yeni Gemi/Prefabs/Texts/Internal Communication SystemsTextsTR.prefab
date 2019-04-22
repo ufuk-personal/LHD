@@ -110,14 +110,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Dahili Haberle\u015Fme Sistemi</b></color>\r\n\r\n<i>Dahili
-    Haberle\u015Fme Sistemleri</i>\r\n<i>Gemi \xFCzerinde \xE7ok say\u0131da lokasyon
+  m_Text: "<color=#ffff00><b>Dahili Muhabere Sistemi</b></color>\r\n\r\n<i>Dahili
+    Muhabere Sistemleri</i>\r\n\r\n<i>Gemi \xFCzerinde \xE7ok say\u0131da lokasyon
     ile g\xF6r\xFC\u015Fmeyi, harici sistemlere eri\u015Fmeyi, yaz\u0131l\u0131 mesajlar\u0131,
     harici sistemleri kontrol etmeyi, alarmlar\u0131 ve anonslar\u0131 aktive etmeyi
-    ger\xE7ekle\u015Ftiren cihaz/sistemlerdir.</i>\r\n\r\n\u2022 Telefon Sistemi\r\n\u2022
-    SP Telefon Sistemi\r\n\u2022 Alarm Anons Sistemi\r\n\u2022 Yerel Alan A\u011F\u0131\r\n\u2022
-    Helikopter Muhabere Sistemi\r\n\u2022 E\u011Flence ve E\u011Fitim Sistemi\r\n\u2022
-    Yard\u0131mc\u0131 Parti ve Yara Savunma Muhabere Sistem"
+    ger\xE7ekle\u015Ftiren cihaz/sistemlerdir.</i>\r\n\r\nTelefon Sistemi\r\nSP Telefon
+    Sistemi\r\nAlarm Anons Sistemi\r\nYerel Alan A\u011F\u0131\r\nHelikopter Muhabere
+    Sistemi\r\nE\u011Flence ve E\u011Fitim Sistemi\r\nTamirci Parti ve Yara Savunma
+    Muhabere Sistemi"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -224,7 +224,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -19.99997}
+  m_AnchoredPosition: {x: 0, y: -20}
   m_SizeDelta: {x: -40, y: -40}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!224 &224699840108416928
@@ -282,5 +282,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 493.6}
+  m_SizeDelta: {x: 0, y: 516.1}
   m_Pivot: {x: 0, y: 1}

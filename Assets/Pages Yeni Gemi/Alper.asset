@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 2011d6361b938cb4695e8ac54df4eeb6, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 06c46cdf71c76a840a3c85b7593121fc,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - Alper
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ALPER
   HeaderTextTR: ALPER
   CameraPathID: 5

@@ -110,13 +110,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>ARES-2NC </b></color>\r\n\r\n<i>TR (Aselsan Radar ED
-    Sistemi)</i>\r\n\r\n\u2022 2-18 GHz Frekans Kapsamas\u0131\r\n\u2022 (0.5-2 GHz
-    ve 18-40 GHz\u2019e Geni\u015Fleyebilir)\r\n\u2022 Kendini Kan\u0131tlam\u0131\u015F
-    Saha Performans\u0131\r\n\u2022 Kompakt ED Anteni\r\n\u2022 Say\u0131sal Alma\xE7
-    Mimarisi\r\n\u2022 SYS ile Entegrasyon\r\n\u2022 EH Suiti ile Entegrasyon\r\n\u2022
-    LPI Yay\u0131nlar\u0131n Tespiti\r\n\u2022 Y\xFCksek Sinyal Yakalama Olas\u0131l\u0131\u011F\u0131\r\n\u2022
-    Y\xFCksek Kestirme Hassasiyeti\r\n\r\n<i>ARES-2NC </i\r\n"
+  m_Text: "<color=#ffff00><b>Elektonik Destek Sistemi (ARES-2NC)</b></color>\r\n\r\n<i>ARES-2NC
+    Elektronik Destek Sistemi</i>\r\n\r\n6-18 GHz Frekans Kapsamas\u0131\r\n(2-6 GHz
+    ve 18-40 GHz\u2019e Geni\u015Fleyebilir)\r\nKendini Kan\u0131tlam\u0131\u015F
+    Saha Performans\u0131\r\n\xC7oklu Tehdit Reaksiyonu\r\nKat\u0131 Hal G\xFC\xE7
+    Y\xFCkseltge\xE7leri\r\nSay\u0131sal RF Haf\u0131zal\u0131 Teknik \xDCreteci\r\nEvre
+    Uyumlu ve Uyumsuz Kar\u0131\u015Ft\u0131rma Teknikleri\r\nEH Suiti ile Tam Uyumlu
+    \xC7al\u0131\u015Fma\r\nEH Suiti ile Entegtrasyon"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1926694768517736}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -280,6 +280,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 444.7}
+  m_AnchoredPosition: {x: 0, y: 0.00004267687}
+  m_SizeDelta: {x: 0, y: 484.3}
   m_Pivot: {x: 0, y: 1}

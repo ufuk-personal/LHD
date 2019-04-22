@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "S\u0130M"
+  m_Text: "MITOS S\u0130M"
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DPT
+  m_Text: MITOS DPT
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

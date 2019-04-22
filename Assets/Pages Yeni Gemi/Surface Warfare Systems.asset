@@ -21,6 +21,10 @@ MonoBehaviour:
   Images: []
   TextPrefab: {fileID: 0}
   TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: SURFACE WARFARE SYSTEMS
-  HeaderTextTR: "SU\xDCSTE SAVA\u015E S\u0130STEMLER\u0130"
+  HeaderTextTR: "SU\xDCST\xDC SAVA\u015E S\u0130STEMLER\u0130"
   CameraPathID: -1

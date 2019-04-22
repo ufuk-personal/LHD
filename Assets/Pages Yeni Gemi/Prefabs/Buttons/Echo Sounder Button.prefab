@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0130SKAND\u0130L"
+  m_Text: "KULA\xC7 \u0130SKAND\u0130L"
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ECHO SOUNDER
+  m_Text: KULAC ECHO SOUNDER
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -110,15 +110,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>AHTAPOT</b></color>\r\n\r\n<i>Elektro Optik Arama ve
-    Takip Sistemi</i>\r\n<i>AHTAPOT, deniz uygulamalar\u0131 i\xE7in \xF6zel olarak
-    geli\u015Ftirilmi\u015F, \xE7ok sens\xF6rl\xFC ve y\xFCksek performansl\u0131
-    Elektro-Optik Ke\u015Fif ve G\xF6zetleme Sistemi\u2019dir.</i>\r\n\r\n\u2022 Ke\u015Fif,
-    G\xF6zetleme ve At\u0131\u015F Kanal\u0131\r\n\u2022 Y\xFCksek Performansl\u0131
-    Termal Kamera \r\n\u2022 Y\xFCksek Performansl\u0131 G\xFCnd\xFCz TV Kamera \r\n\u2022
-    G\xF6ze Zarars\u0131z Lazer Mesafe \xD6l\xE7er \r\n\u2022 Uzun Mesafe Tespit/Te\u015Fhis/Tan\u0131ma
-    Spotter Kamera\r\n\u2022 Otomatik Hedef Tespiti ve \u0130zleme\r\n\u2022 Lazer
-    Hedef \u0130\u015Faretleyici (Opsiyonel)\r\n\u2022 \xC7oklu Hedef Takibi"
+  m_Text: "<color=#ffff00><b>M\u0130LPARS EM Parakete </b></color>\r\n\r\nA\xE7\u0131k
+    mimari ve mod\xFCler tasar\u0131m \r\nKullan\u0131c\u0131 Dostu Aray\xFCz \r\nAlarm
+    ve Uyar\u0131lar \r\nModern Sinyal \u0130\u015Fleme Algoritmalar\u0131 \r\nGemi
+    Veri Kontrol ve Da\u011F\u0131t\u0131m Sistemi ile Entegre \r\n\r\n-25 knot ile
+    +60 knot aral\u0131\u011F\u0131nda h\u0131z \xF6l\xE7\xFCm\xFC \r\n10 knot\u2019a
+    kadarki h\u0131zlarda \xB10.1knot \xF6l\xE7\xFCm hassasiyeti \r\n10 knot \xFCzeri
+    h\u0131zlarda %1 \xF6l\xE7\xFCm hassasiyeti \r\n99999.99 nm mesafe skalas\u0131
+    n\xFCmerik g\xF6sterim \xE7\xF6z\xFCn\xFCrl\xFC\u011F\xFC \r\n50/60Hz, 115/230V,
+    200VA g\xFC\xE7 aray\xFCz\xFC \r\nMIL-STD 810G ve IEC 60945 uyumlu donan\u0131m "
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1

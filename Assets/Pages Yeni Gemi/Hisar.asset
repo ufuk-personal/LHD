@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 3b8ae4ca4cd5f3746ab9edb62e40f461, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 8428702aecde4aa4e8ee8b24b3ebe1dc,
     type: 2}
-  HeaderText: "H\u0130SAR "
+  TransparentObjects: []
+  BlinkingObjects:
+  - hisar
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: HISAR SAM
   HeaderTextTR: "H\u0130SAR"
   CameraPathID: 18

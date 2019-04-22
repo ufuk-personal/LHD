@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: fdc2710f7a711354487ea74f171b6f89, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 9d7ed289ffce9ec499cd5731021a003e,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - ares
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ESM ARES-2NC
   HeaderTextTR: ED ARES-2NC
   CameraPathID: 12

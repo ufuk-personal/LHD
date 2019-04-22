@@ -110,13 +110,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>SEY\u0130R S\u0130STEMLER\u0130</b></color>\r\n\r\n<i>Seyir
-    Sistemleri</i>\r\n\r\nAtaletsel Navigasyon Sistemi\r\nDeniz Navigasyon Sistemi
-    farkl\u0131 tip su \xFCst\xFC deniz platformlar\u0131na\r\ntak\u0131labilen, y\xFCksek
-    performans sa\u011Flayan s\u0131k\u0131 ba\u011Fl\u0131 t\xFCmle\u015Fik ANS/\r\nGPS/Parakete
-    sistemidir.\r\n\u2022\t1 NM/ 4 HR \r\n\u2022\tGPS\u2019S\u0130Z PERFORMANS \r\n\u2022\tDEN\u0130ZDE
-    HAREKETL\u0130 Y\xD6NEL\u0130M \r\n\u2022\tGPS VEYA PARAKETE \u0130LE \r\n\u2022\tG\xD6M\xDCL\xDC
-    GPS \r\n\u2022\tSAASM VEYA SPS\r\n"
+  m_Text: "<color=#ffff00><b>Seyir Sistemleri</b></color>\r\n\r\n<i>ANS 510-D Ataletsel
+    Navigasyon Sistemi</i>\r\n\r\nAtaletsel Navigasyon Sistemi\r\nDeniz Navigasyon
+    Sistemi farkl\u0131 tip su \xFCst\xFCDeniz Navigasyon Sistemi farkl\u0131 tip
+    su \xFCst\xFC deniz platformlar\u0131na tak\u0131labilen, y\xFCksek performans
+    sa\u011Flayan s\u0131k\u0131 ba\u011Fl\u0131 t\xFCmle\u015Fik ANS/GPS/Parakete
+    sistemidir.\r\n1 NM/ 4 HR \r\nGPS\u2019siz performans \r\nDenizde hareketli y\xF6nelim
+    (GPS veya parakete ile )\r\nG\xF6m\xFCl\xFC GPS \r\nSAASM veya SPS"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1

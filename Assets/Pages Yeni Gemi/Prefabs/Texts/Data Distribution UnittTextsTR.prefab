@@ -110,10 +110,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Gemi Bilgi Da\u011F\u0131t\u0131m Sistemi</b></color>\r\n\r\n\r\n\u2022
-    Fast and Reliable\r\n\u2022 Turnkey COTS Solutions/Military Products\r\n\u2022
-    Proven Network Protocols\r\n\u2022 Scalable Design depending on Platform Requirements\r\n\u2022
-    Flexible Modular Architecture\r\n\u2022 Redundant Operation"
+  m_Text: "<color=#ffff00><b>S\u0130LYON Gemi Bilgi Da\u011F\u0131t\u0131m Sistemi</b></color>\r\n\r\n\r\n\u2022
+    H\u0131zl\u0131 ve G\xFCvenilir \r\n\u2022 Rafta Haz\u0131r Ticari/Askeri \xDCr\xFCnler
+    \r\n\u2022 Kendini ispatlam\u0131\u015F protokol ve ileti\u015Fim altyap\u0131s\u0131
+    \r\n\u2022 Platform ihtiya\xE7lar\u0131na g\xF6re \xF6l\xE7eklendirilebilir \r\n\u2022
+    Esnek mod\xFCler mimari \r\n\u2022 Yedekli Yap\u0131da \xC7al\u0131\u015Fma\r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1

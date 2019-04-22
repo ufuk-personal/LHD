@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "TASARIM VE ENTEFRASYON YETENEKLER\u0130"
+  m_Text: "TASARIM VE ENTEGRASYON YETENEKLER\u0130"
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1

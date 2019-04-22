@@ -54,7 +54,7 @@ GameObject:
   - component: {fileID: 114998469658066316}
   - component: {fileID: 222241443537084094}
   m_Layer: 5
-  m_Name: Torpedo Launching SystemTextsTR
+  m_Name: MeteoTextsTR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -110,13 +110,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Torpido At\u0131c\u0131 Sistem</b></color>\r\n\r\n<i>Torpido
-    At\u0131c\u0131 Sistem</i>\r\n\r\n<i>HIZIR sistemi torpidolar\u0131 yeterli reaksiyon
-    s\xFCresi sa\u011Flayacak \u015Fekilde uzun mesafeden tespit edebilmekte ve k\xFCt\xFCphane
-    bilgisine ba\u011Fl\u0131 olarak s\u0131n\u0131fland\u0131rabilmektedir.</i>\r\n\r\n\u0130kili
-    sabit torpido kovan\u0131\r\nNATO standard\u0131 hafif torpidolar\u0131n at\u0131\u015F
-    yetene\u011Fi\r\nH\u0131zl\u0131 reaksiyon \r\nLokal ve rimot at\u0131\u015F kabiliyeti
-    \r\n"
+  m_Text: "<color=#ffff00><b>DEMES Meteorolojik \xD6l\xE7\xFCm Sistemi</b></color>\r\n\r\r\n\nDEMES,
+    Sens\xF6r Aray\xFCz Birimi, \u0130\u015Flemci ve Kay\u0131t Birimi ve \xFCzerinde
+    ko\u015Fan DEMES yaz\u0131l\u0131m\u0131, Sens\xF6r G\xFC\xE7/Veri Da\u011F\u0131t\u0131m
+    Birimi ile \xE7evre sens\xF6rlerinden olu\u015Fmaktad\u0131r. DEMES yaz\u0131l\u0131m\u0131n\u0131n
+    kullan\u0131m\u0131 i\xE7in 19\u201D kabin tipi k\u0131zakl\u0131, katlanabilir
+    tipte klavye/ monit\xF6r bulunmaktad\u0131r. Panel tip monit\xF6r, meteorolojik
+    ve o\u015Finografik \xF6l\xE7\xFCmlerin kullan\u0131c\u0131ya sergilenmesini sa\u011Flar.\r\n\u2022
+    \   Alg\u0131lay\u0131c\u0131 Eklenmesine \u0130zin Veren Geni\u015Fleyebilir
+    Yap\u0131\r\n\u2022   Kullan\u0131c\u0131 Dostu Uygulama Ekran\u0131\r\n\u2022
+    Monit\xF6r ve G\xF6stergelerde D\xFC\u015F\xFCk Ayd\u0131nlatma Seviyesi (<70
+    l\xFCx)\r\n\u2022   Sistem Birimlerinde D\xFC\u015F\xFCk G\xFCr\xFClt\xFC Seviyesi
+    (<59 dB)\r\n\u2022  4 GB RAM ve 2 adet 64 GB\u2019l\u0131k SSD Disk\u2019e Sahip
+    \u0130\u015Flemci Birimi\r\n\u2022   RS422, NMEA 0183 Aray\xFCz\xFC\r\n\u2022
+    \  MIL-STD-810F ile Uyumlu\r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -281,5 +288,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 461.6}
+  m_SizeDelta: {x: 0, y: 538.8}
   m_Pivot: {x: 0, y: 1}

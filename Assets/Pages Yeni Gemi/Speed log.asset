@@ -22,7 +22,8 @@ MonoBehaviour:
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
-  HeaderText: SPEED LOG
-  HeaderTextTR: PARAKETE
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: MILPARS SPEED LOG
+  HeaderTextTR: MILPARS PARAKETE
   CameraPathID: 10

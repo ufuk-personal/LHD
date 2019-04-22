@@ -19,6 +19,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: c6095c9c017ee7e46a65534721a39bdb, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 9ca88eae259662f44a84e0eeda08d44a,
     type: 2}
-  HeaderText: "L\u0130S"
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: LWS
   HeaderTextTR: "L\u0130S"
   CameraPathID: 10

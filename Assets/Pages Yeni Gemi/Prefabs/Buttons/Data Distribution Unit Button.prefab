@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "VER\u0130 DA\u011EITIM S\u0130STEM\u0130"
+  m_Text: "SILYON VER\u0130 DA\u011EITIM S\u0130STEM\u0130"
 --- !u!114 &114191344652869734
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DATA DISTIRIBUTION UNIT
+  m_Text: SILYON DATA DISTIRIBUTION UNIT
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

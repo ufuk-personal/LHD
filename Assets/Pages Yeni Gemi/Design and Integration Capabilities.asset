@@ -19,6 +19,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 2f7d47f6a64cc684cb3ba542f3da78cf, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 1f45f2179ebabd84da5704b3271b45a3,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: "DES\u0130GN AND INTEGRATION CAPABILITIES"
-  HeaderTextTR: "TASARIM VE ENTEFRASYON YETENEKLER\u0130"
+  HeaderTextTR: "TASARIM VE ENTEGRASYON YETENEKLER\u0130"
   CameraPathID: 10

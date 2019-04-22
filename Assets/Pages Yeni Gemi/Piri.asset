@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 5ec9a3e977ac7164b830bf1fd6e95b6c, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 85d2020714af07a4c9d3afa9c82b7bf9,
     type: 2}
-  HeaderText: "P\u0130R\u0130"
-  HeaderTextTR: "P\u0130R\u0130"
+  TransparentObjects: []
+  BlinkingObjects:
+  - piri
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: PIRI IRST
+  HeaderTextTR: "P\u0130R\u0130 KATS"
   CameraPathID: 9

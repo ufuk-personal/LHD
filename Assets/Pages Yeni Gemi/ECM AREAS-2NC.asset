@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 64704ece375ad50488459ecf5b40b4dc, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 89ae571749c8d9b44a700d6272673184,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - areas2nc
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ECM AREAS-2NC
   HeaderTextTR: EKT AREAS-2NC
   CameraPathID: 11

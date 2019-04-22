@@ -22,7 +22,8 @@ MonoBehaviour:
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
-  HeaderText: DATA DISTIRIBUTION UNIT
-  HeaderTextTR: "VER\u0130 DA\u011EITIM S\u0130STEM\u0130"
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: SILYON DATA DISTIRIBUTION UNIT
+  HeaderTextTR: "SILYON VER\u0130 DA\u011EITIM S\u0130STEM\u0130"
   CameraPathID: 10

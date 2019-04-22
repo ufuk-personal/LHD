@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: HIZIR
+  m_Text: HIZIR TKAS
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: HIZIR
+  m_Text: HIZIR TCMS
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

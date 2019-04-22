@@ -110,15 +110,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Harici Haberle\u015Fme Sistemi</b></color>\r\n\r\n<i>Harici
-    Haberle\u015Fme Sistemleri</i>\r\n<i>Geminin di\u011Fer deniz, hava, sahil istasyonlar\u0131
+  m_Text: "<color=#ffff00><b>Harici Muhabere Sistemi</b></color>\r\n\r\n<i>Harici
+    Muhabere Sistemleri</i>\r\n\r\n<i>Geminin di\u011Fer deniz, hava, sahil istasyonlar\u0131
     veya uydu birimleri ile a\xE7\u0131k/emniyetli ses ve veri haberle\u015Fmesine
-    imkan veren cihaz/sistemlerdir.</i>\r\n\r\n\u2022 Telsiz Sistemleri\r\n\u2022
-    Muhabere Anahtarlama Sistemi\r\n\u2022 Taktik Veri Linkleri\r\n\u2022 Ses ve Veri
-    Kripto Sistemleri\r\n\u2022 Ses Kay\u0131t Sistemleri\r\n\u2022 Konsol ve Kabinetler\r\n\u2022
-    Mesaj \u0130\u015Fletim Sistemi\r\n\u2022 GMDSS Ekipmanlar\u0131\r\n\u2022 Uydu
-    Muhabere Sistemleri\r\n\u2022 Anten Sistemleri ve G\xFC\xE7 Da\u011F\u0131t\u0131m
-    Sistemleri\r\n\u2022 IFF Sistemleri\r\n"
+    imkan veren cihaz/sistemlerdir.</i>\r\n\r\nTelsiz Sistemleri\r\nMuhabere Anahtarlama
+    Sistemi\r\nTaktik Veri Linkleri\r\nSes ve Veri Kripto Sistemleri\r\nSes Kay\u0131t
+    Sistemleri\r\nKonsol ve Kabinetler\r\nMesaj \u0130\u015Fletim Sistemi\r\nGMDSS
+    Ekipmanlar\u0131\r\nUydu Muhabere Sistemleri\r\nAnten Sistemleri ve G\xFC\xE7
+    Da\u011F\u0131t\u0131m Sistemleri\r\nIFF Sistemleri\r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -283,5 +282,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 544.3}
+  m_SizeDelta: {x: 0, y: 576.4}
   m_Pivot: {x: 0, y: 1}

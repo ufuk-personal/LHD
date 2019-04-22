@@ -110,11 +110,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>\u0130skandil Sistemi</b></color>\r\n\r\n\r\n\u2022 Derinlik
-    \xD6l\xE7\xFCm\xFC: 1000 metreye kadar\r\n\u2022 Frekans: ~50 kHz, ~200 kHz ve
-    ~400 kHz\r\n\u2022 Hassasl\u0131k: < % 1 (\xD6l\xE7\xFCm aral\u0131\u011F\u0131)\r\n\u2022
+  m_Text: "<color=#ffff00><b>KULA\xC7 \u0130skandil Sistemi</b></color>\r\n\r\n\r\n\r\n\u2022
+    Derinlik \xD6l\xE7\xFCm\xFC: 1000 metreye kadar\r\n\u2022 Frekans: ~50 kHz, ~200
+    kHz ve ~400 kHz\r\n\u2022 Hassasl\u0131k: < % 1 (\xD6l\xE7\xFCm aral\u0131\u011F\u0131)\r\n\u2022
     Birden fazla iskandilin senkron kullan\u0131m\u0131\r\n\u2022 Askeri standartlara
-    ve Uluslararas\u0131 Denizcilik \xD6rg\xFCt\xFC (IMO)\r\nregulasyonuna uygunluk\r\n\u2022
+    ve Uluslararas\u0131 Denizcilik \xD6rg\xFCt\xFC (IMO)\r\nreg\xFCulasyonuna uygunluk\r\n\u2022
     Yerle\u015Fim: Kabin ya da masa \xFCst\xFCne yerle\u015Ftirilebilir i\xE7\r\nekipman\r\n\u2022
     G\xF6sterim: Say\u0131sal ve grafik g\xF6sterim yetene\u011Fi\r\n\u2022 Alarm:
     S\u0131\u011F ve derin su alarm ayar\u0131\r\n\u2022 Kay\u0131t: Y\xFCksek kapasiteli

@@ -110,11 +110,26 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Karinaya Monteli Sonar Sistemi</b></color>\r\n\r\n<i>Karinaya
-    Monteli Sonar Sistemi</i>\r\n\r\n\u2022\tDenizalt\u0131 Savunma Harbi (DSH) \xC7al\u0131\u015Fma
-    Modu\r\n\u2022\tMay\u0131n Sak\u0131nma Sonar\u0131 (MSS) \xC7al\u0131\u015Fma
-    Modu\r\n\u2022\tHIZIR ile entegre \xE7al\u0131\u015Fabilme\r\n\u2022\tMulti-statik
-    \xE7al\u0131\u015Fmaya uyumlu\r\n"
+  m_Text: "<color=#ffff00><b>FERSAH</b></color>\r\n\r\n<i>Karinaya Monteli Sonar Sistemi</i>\r\n\r\n<i>FERSAH
+    Karinaya Monteli DSH Sonar\u0131 aktif / pasif olarak orta frekans band\u0131nda
+    \xE7al\u0131\u015Fan bir sonar olup birincil g\xF6revi Denizalt\u0131 Savunma
+    Harbi (DSH) ihtiya\xE7lar\u0131n\u0131 sa\u011Flamakt\u0131r. DSH\u2019a ek olarak,
+    Sistem may\u0131n benzeri objelerden sak\u0131nma moduna sahiptir. FERSAH Karinaya
+    Monteli DSH Sonar\u0131, aktif modda denizalt\u0131 ve may\u0131n benzeri objeler
+    gibi sualt\u0131 tehditlerini, pasif modda ise denizalt\u0131, su \xFCst\xFC gemisi
+    ve torpido gibi sualt\u0131 tehditlerini tespit, analiz ve takip edebilmektedir.
+    </i>\r\n\r\n\u2022 32 hedefi aktif modda tespit ve takip edebilme\r\n\u2022 8
+    hedefi pasif modda tespit ve takip edebilme\r\n\u2022 Yatay Kapsama Alan\u0131\r\n\u2022
+    DSH Mod: 360\xB0\r\n\u2022 MAS Mod: 90\xB0\r\n\u2022 Aktif Sonar Frekanslar\u0131:
+    6.7 kHz, 7.5 kHz ve 8.4 kHz\r\n\u2022 Aktif Sonar DSH Modlar\u0131: OMNI, SRDT,
+    ARDT, TRDT, MCC\r\n\u2022 Pasif Sonar Frekans Band\u0131: 3 kHz - 12 kHz\r\n\u2022
+    Pals Tipi: CW, FM ve COMBO (CW+FM)\r\n\u2022 Pals Uzunlu\u011Fu\r\n\u2022 CW:
+    16, 64, 128, 256 ms\r\n\u2022 FM: 8, 16, 64, 128, 256 ms\r\n\u2022 Mesafe Skalas\u0131:
+    2250, 4500, 9000, 18000, 36000 m\r\n\u2022 Elektrik Besleme Gerilimleri\r\n\u2022
+    \u0130\u015Flemci Kabineti: 115 VAC, 60 Hz, 1\u03D5\r\n\u2022 G\xFC\xE7 Kabineti:
+    115 VAC, 60 Hz, 1\u03D5 ve 440 VAC, 60 Hz, 3\u03D5\r\n\u2022 Operat\xF6r Konsolu:
+    115 VAC, 60 Hz, 1\u03D5\r\n\u2022 Ba\u011Flant\u0131 Birimi: 115 VAC, 60 Hz, 1\u03D5
+    \r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,5 +294,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 456}
+  m_SizeDelta: {x: 0, y: 892.4}
   m_Pivot: {x: 0, y: 1}

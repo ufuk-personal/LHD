@@ -110,13 +110,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Parakete</b></color>\r\n\r\n\r\nGeneral Specifications
-    \r\nOpen Architecture and Modular Design \r\nUser Friendly Interface \r\nAlarms
-    and Indications \r\nAdvanced Signal Processing Algorithms \r\nIntegrated with
-    Ship Data Distribution System \r\n\r\nTechnical Specifications \r\nSpeed range:
-    -25 knots to +60 knots \r\nSpeed accuracy: within \xB10.1knot (up to 10 knots)
-    \r\nSpeed accuracy: %1 (Above 10 knots) \r\nDistance display: 99999.99 nm \r\nPower
-    supply: 50/60Hz, 115/230V, 200VA \r\nMIL-STD 810G and IEC 60945 compatible"
+  m_Text: " \n<color=#ffff00><b>Top At\u0131\u015F Kontrol Sistemi</b></color>\r\n\r\nBalistik
+    hesaplamalar\r\nTop stabilizasyonu\r\nD\xFCzeltme y\xF6netimi\r\n\xD6nlemeli at\u0131\u015F\r\nAt\u0131\u015Fa
+    ve y\xF6nlenmeye yasak b\xF6lgeler \r\nAt\u0131\u015Fa haz\u0131r olup olmama
+    bilgisi\r\nBirim i\xE7i test\r\nTop Acil Kullan\u0131m \xDCnitesi"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1

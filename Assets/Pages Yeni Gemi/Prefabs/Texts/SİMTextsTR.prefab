@@ -110,12 +110,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Route Planning and Monitoring \r\nProviding Alarms and Indicators \r\nVoyage
-    Recording \r\nScreen Capture \r\nRadar Image Overlay \r\nIntegration with Data
-    Distribution System (Gyro, GPS, Speed Log, AIS, Anemometer, etc.) \r\nNavigational
-    Support Functions (Preventing run aground and collision, Lost Torpedo Search,
-    Man Overboard) \r\nARPA and WAIS Information Overlay \r\nWater Space Management
-    \r\nPaper Chart Compliant \r\n"
+  m_Text: "<color=#ffff00><b>MITOS Say\u0131sal \u0130z Masas\u0131</b></color>\r\n\r\n\r\n\r\nRota
+    Planlama ve Takibi \r\nSeyir Kayd\u0131 \r\nUygun Alarm ve Uyar\u0131lar\u0131
+    Sa\u011Flama \r\nEkran Video Kayd\u0131n\u0131n Al\u0131nmas\u0131 ve Oynat\u0131lmas\u0131
+    \r\nRadar Video G\xF6sterimi \r\nGemi Bilgi Da\u011F\u0131t\u0131m Sistemi ile
+    Entegrasyon (Cayro, GPS, Parakete, \u0130skandil, R\xFCzgarg\xFCl\xFC) \r\nSeyir
+    Yard\u0131mc\u0131 Fonksiyonlar\u0131 (Karaya Oturma, \xC7at\u0131\u015Fma \xD6nleme,
+    Torpido Arama, Denize Adam D\xFC\u015Ft\xFC) \r\nARPA ve (W)AIS \u0130zlerinin
+    G\xF6sterimi \r\nSu Sahas\u0131 Y\xF6netimi \r\nKa\u011F\u0131t Harita ile \xC7al\u0131\u015Fabilme
+    Yetene\u011Fi "
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -280,5 +283,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 467.3}
+  m_SizeDelta: {x: 0, y: 526}
   m_Pivot: {x: 0, y: 1}

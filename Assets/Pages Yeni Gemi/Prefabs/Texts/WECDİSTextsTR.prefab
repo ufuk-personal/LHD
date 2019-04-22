@@ -110,12 +110,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>WECDIS</b></color>\r\n\r\n\r\n\u2022 Route Planning and
-    Monitoring\r\n\u2022 Alarms and Indicators\r\n\u2022 Voyage Recording\r\n\u2022
-    Screen Capture and Replay\r\n\u2022 Radar Image Overlay\r\n\u2022 Integration
-    with Data Distribution System (Gyro, GPS,\r\nSpeed Log, AIS, Anemometer, etc.)\r\n\u2022
-    Navigational Support Functions (Preventing run aground\r\nand collisions )\r\n\u2022
-    ARPA and WAIS Information Overlay\r\n\u2022 Water Space Management"
+  m_Text: "<color=#ffff00><b>MITOS WECDIS </b></color>\r\n\r\n\r\n\r\n\u2022 Rota
+    Planlama ve Takibi \r\n\u2022 Seyir Kayd\u0131 \r\n\u2022 Alarm ve Uyar\u0131lar
+    \r\n\u2022 Ekran Video Kayd\u0131n\u0131n Al\u0131nmas\u0131 ve Oynat\u0131lmas\u0131
+    \r\n\u2022 Radar Video G\xF6sterimi \r\n\u2022 Gemi Bilgi Da\u011F\u0131t\u0131m
+    Sistemi ile Entegrasyon (Cayro, GPS, Parakete, \u0130skandil, R\xFCzgarg\xFCl\xFC)
+    \r\n\u2022 Seyir Yard\u0131mc\u0131 Fonksiyonlar\u0131 (Karaya Oturmay\u0131 \xD6nleme,
+    \xC7at\u0131\u015Fmay\u0131 \xD6nleme) \r\n\u2022 ARPA ve (W)AIS \u0130zlerinin
+    G\xF6sterimi \r\n\u2022 Su Sahas\u0131 Y\xF6netimi "
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -149,7 +151,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1926694768517736}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -280,5 +282,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 480.4}
+  m_SizeDelta: {x: 0, y: 526}
   m_Pivot: {x: 0, y: 1}

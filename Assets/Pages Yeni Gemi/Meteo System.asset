@@ -17,11 +17,13 @@ MonoBehaviour:
   Images:
   - {fileID: 21300000, guid: 83405abbf9f1fae44960ec674efdcc8b, type: 3}
   TextPrefab: {fileID: 0}
-  TextPrefabTR: {fileID: 0}
+  TextPrefabTR: {fileID: 1546654663387790, guid: bf5d6d2333c3ca24da44802bd7fa51f6,
+    type: 2}
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
-  HeaderText: METEO SYSTEM
-  HeaderTextTR: "METEO S\u0130STEM\u0130"
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: DEMES SYSTEM
+  HeaderTextTR: "DEMES S\u0130STEM\u0130"
   CameraPathID: 10

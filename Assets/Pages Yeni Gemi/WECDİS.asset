@@ -22,7 +22,8 @@ MonoBehaviour:
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
-  HeaderText: WECDIS
-  HeaderTextTR: WECDIS
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: MITOS WECDIS
+  HeaderTextTR: MITOS WECDIS
   CameraPathID: 10

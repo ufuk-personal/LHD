@@ -21,7 +21,8 @@ MonoBehaviour:
     type: 2}
   TransparentObjects:
   - torpido
-  BlinkingObjects: []
+  BlinkingObjects:
+  - torpedo
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
   HeaderText: "TORPEDO LAUCH\u0130NG SYSTEM"

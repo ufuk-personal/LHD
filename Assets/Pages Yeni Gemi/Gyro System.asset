@@ -22,7 +22,8 @@ MonoBehaviour:
   TransparentObjects:
   - sidePanel
   BlinkingObjects: []
-  PageSpecificObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: GYRO SYSTEM
-  HeaderTextTR: "CAYRO S\u0130STEM\u0130"
+  HeaderTextTR: "ANS 510-D CAYRO S\u0130STEM\u0130"
   CameraPathID: 10

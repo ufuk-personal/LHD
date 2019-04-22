@@ -114,17 +114,20 @@ MonoBehaviour:
     deniz platformunu hedef alan d\xFC\u015Fman lazer tehditlerini alg\u0131layan,
     s\u0131n\u0131fland\u0131ran, tan\u0131mlayan ve uyar\u0131 veren geli\u015Fmi\u015F
     bir tehdit ikaz sistemidir. LIS, kar\u015F\u0131 tedbir sistemlerini harekete
-    ge\xE7irebilir.</i>\r\n\r\n\u2022 Y\xFCksek Alg\u0131lama Hassasiyeti\r\n\u2022
-    K\u0131sa Tepki S\xFCresi\r\n\u2022 Tehdit S\u0131n\u0131fland\u0131rma (LM\xD6,
-    LH\u0130, LGD)\r\n\u2022 Tehdit, Te\u015Fhis ve \xD6nceliklendirme (G\xF6rev Veri
-    Dosyas\u0131 ile)\r\n\u2022 Y\xFCksek Hassasiyetle Yatay Eksen Geli\u015F A\xE7\u0131s\u0131
-    Tespiti\r\n\u2022 Darbeli ve CW (S\xFCrekli) Mod\xFCleli LGD Alg\u0131lama\r\n\u2022
-    Dalga Boyu Aral\u0131\u011F\u0131: \r\no Bant I (0.5-1.1 \u03BCm)\r\no Bant II
-    (1.1-1.65 \u03BCm)\r\no Bant III (0.8-1.1 \u03BCm)\r\no Bant IV (8-12 \u03BCm)
-    (Opsiyon)\r\n\u2022 360\xB0 Yatay Eksen Kapsama Alan\u0131\r\n\u2022 Y\xFCksek
-    (> %95) Tespit Olas\u0131l\u0131\u011F\u0131 (PoD)\r\n\u2022 \xC7ok D\xFC\u015F\xFCk
-    Hatal\u0131 Tehdit Bildirim S\u0131kl\u0131\u011F\u0131 (FAR)\r\n\u2022 Tehdit
-    Takip \xD6zelli\u011Fi\r\n\u2022 \xC7oklu Tehdit Tespiti ve Takibi"
+    ge\xE7irebilir.</i>\r\n\r\n360\xB0 Yatay Eksen Kapsama Alan\u0131\r\nY\xFCksek
+    Tespit Olas\u0131l\u0131\u011F\u0131 (PoD) \r\n\xC7ok D\xFC\u015F\xFCk Hatal\u0131
+    Tehdit Bildirim S\u0131kl\u0131\u011F\u0131 (FAR) \r\nTehdit Dalgaboyu Band\u0131
+    Tespiti \r\nDarbe Tekrar Frekans\u0131 (PRF) Tespiti \r\nTehdit Takip \xD6zelli\u011Fi
+    \r\n\xC7oklu Tehdit Tespiti ve Takibi \r\n\xC7oklu GVD Y\xFCkleyebilme ve Se\xE7me
+    \r\nKay\u0131t Kabiliyeti (Tehdit ve Darbe Parametreleri) \r\nDonan\u0131msal
+    ve Yaz\u0131l\u0131msal Karartma Aray\xFCz\xFC \r\nMerkezi S\u0131f\u0131rlama
+    (GVD, Kay\u0131t Bilgileri ve Yaz\u0131l\u0131m Silme) \r\nKar\u015F\u0131 Tedbir
+    Aktivasyon Aray\xFCz\xFC \r\nY\xFCksek MTBF \r\nY\xF6netici Bilgisayar\u0131 Aray\xFCz\xFC
+    \r\nHat Seviyesi Destek Te\xE7hizat\u0131 (O-Seviye) \r\nDalga Boyu Aral\u0131\u011F\u0131:
+    \r\nBant I (0.5-1.1 \u03BCm)\r\nBant II (1.1-1.65 \u03BCm)\r\nBant III (0.8-1.1
+    \u03BCm)\r\nBant IV (8-12 \u03BCm) (Opsiyon)\r\n\r\nLazer Tehditlerinin Alg\u0131lanmas\u0131
+    \r\nLazer Mesafe \xD6l\xE7er (LM\xD6) \r\nLazer Hedef \u0130\u015Faretleyici (LH\u0130)
+    \r\nLazer G\xFCd\xFCm Demeti (LGD) \r\n"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -289,5 +292,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 700.3}
+  m_SizeDelta: {x: 0, y: 913.6}
   m_Pivot: {x: 0, y: 1}

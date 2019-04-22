@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: f71b630d907a4ab44a4bf82a50c793bc, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 786091c03b9bb824c95195d00a557d53,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - Akrep
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: AKREP
   HeaderTextTR: AKREP
   CameraPathID: 4

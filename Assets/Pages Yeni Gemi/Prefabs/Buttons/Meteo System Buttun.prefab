@@ -167,7 +167,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "METEO S\u0130STEM\u0130"
+  m_Text: "DEMES S\u0130STEM\u0130"
 --- !u!114 &114234313353486566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: METEO SYSTEM
+  m_Text: DEMES SYSTEM
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

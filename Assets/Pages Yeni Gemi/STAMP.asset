@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: adf4862651ea2224a992ccb4640ffa7b, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 3b53df781cfa70b4081791c1532982bc,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - stamps
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: STAMP
   HeaderTextTR: STAMP
   CameraPathID: 22

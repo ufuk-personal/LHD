@@ -19,6 +19,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 8a3b93a2bc7aa524199037bc65fd297f, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 8e0e22ed303498e47929e7214012c1dd,
     type: 2}
-  HeaderText: "ELECTR\u0130C PROPULS\u0130ON SYSTEMS"
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: "ELECTRIC PROPULS\u0130ON SYSTEM"
   HeaderTextTR: "ELEKT\u0130R\u0130KL\u0130 TAHR\u0130K S\u0130STEM\u0130"
   CameraPathID: 10
