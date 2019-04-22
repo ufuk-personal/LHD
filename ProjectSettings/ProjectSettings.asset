@@ -13,12 +13,12 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Aselsan
-  productName: Yenigemi
+  productName: LHD
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.084905684, g: 0.082102194, b: 0.08280307, a: 1}
   m_ShowUnitySplashScreen: 1
-  m_ShowUnitySplashLogo: 0
+  m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
   m_SplashScreenLogoStyle: 1
@@ -155,7 +155,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.Aselsan.LHD
-    Standalone: com.Aselsan.Yenigemi
+    Standalone: com.Aselsan.LHD
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -246,7 +246,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/Ufuk/Desktop/Aselsan 2/LHD/user.keystore
+  AndroidKeystoreName: D:/Aselsan/LHD/user.keystore
   AndroidKeyaliasName: aselsan lhd
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
