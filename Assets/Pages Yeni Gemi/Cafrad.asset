@@ -16,8 +16,8 @@ MonoBehaviour:
   - {fileID: 1385111823481038, guid: 131578f85c4d4c946a1e4c7958f0e8d3, type: 2}
   Images:
   - {fileID: 21300000, guid: 7990d8f87433f994aa3c72bfd0b598e3, type: 3}
-  TextPrefab: {fileID: 0}
-  TextPrefabTR: {fileID: 1546654663387790, guid: a408afb1e33680a45ba56d5138680be9,
+  TextPrefab: {fileID: 1546654663387790, guid: cf73dc0ef9de36b43be2a206359c77ff, type: 2}
+  TextPrefabTR: {fileID: 1546654663387790, guid: c684b10d2a3fb2745a029c70db2d9825,
     type: 2}
   TransparentObjects: []
   BlinkingObjects:

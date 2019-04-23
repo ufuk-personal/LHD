@@ -54,7 +54,7 @@ GameObject:
   - component: {fileID: 114998469658066316}
   - component: {fileID: 222241443537084094}
   m_Layer: 5
-  m_Name: DafrafTextsTR
+  m_Name: CafradTexts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -110,15 +110,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>AHTAPOT</b></color>\r\n\r\n<i>Elektro Optik Arama ve
-    Takip Sistemi</i>\r\n<i>AHTAPOT, deniz uygulamalar\u0131 i\xE7in \xF6zel olarak
-    geli\u015Ftirilmi\u015F, \xE7ok sens\xF6rl\xFC ve y\xFCksek performansl\u0131
-    Elektro-Optik Ke\u015Fif ve G\xF6zetleme Sistemi\u2019dir.</i>\r\n\r\n\u2022 Ke\u015Fif,
-    G\xF6zetleme ve At\u0131\u015F Kanal\u0131\r\n\u2022 Y\xFCksek Performansl\u0131
-    Termal Kamera \r\n\u2022 Y\xFCksek Performansl\u0131 G\xFCnd\xFCz TV Kamera \r\n\u2022
-    G\xF6ze Zarars\u0131z Lazer Mesafe \xD6l\xE7er \r\n\u2022 Uzun Mesafe Tespit/Te\u015Fhis/Tan\u0131ma
-    Spotter Kamera\r\n\u2022 Otomatik Hedef Tespiti ve \u0130zleme\r\n\u2022 Lazer
-    Hedef \u0130\u015Faretleyici (Opsiyonel)\r\n\u2022 \xC7oklu Hedef Takibi"
+  m_Text: "<color=#ffff00><b>\xC7AFRAD</b></color>\r\n\r\n<i>\xC7AFRAD \xC7ok Fonksiyonlu
+    Radar</i>\r\n<i>\xC7AFRAD, kati hal g\xF6nderme/alma mod\xFClleri, gelismis Sayisal
+    Isaret Isleme mimarisi, darbe sikistirma \xF6zelligi, \xE7oklu hedef takibi, elektronik
+    huzme stabilizasyonu, kisa reaksiyon s\xFCresi, gelismis elektronik korunma teknikleri
+    ile \xF6zg\xFCn \xE7\xF6z\xFCm\xFC son teknoloji ile bulusturur.</i>\r\n\r\nAktif
+    D\xF6nmeyen Tipte IFF Anten Alt Sistemi \r\nSTANAG 4193 uyumlu Mod 1/2/3/4/C/S/5
+    sorgulama \r\n450 km menzil \r\n\r\nAktif Faz Dizinli \xC7ok Fonksiyonlu Radar
+    (\xC7FR) \r\n1 X-Bant \r\n2 Hacim arama ve ufuk hatti arama, \r\n3 Hava ve su\xFCst\xFC
+    hedeflerin tespit, takip ve siniflandirilmasi, \r\n4 Satha yakin seyreden s\xFCratli
+    ve k\xFC\xE7\xFCk hedef tespit ve takibi, \r\n5 \xC7oklu Hassas hedef takibi,
+    \r\n6 150 km menzil \r\n7 Iz Kapasitesi >1000 \r\n\r\nAktif Faz Dizinli Aydinlatma
+    Radari (AYR) \r\n1 X-Bant \r\n2 Yari Aktif F\xFCze G\xFCd\xFCm\xFC \r\n3 Yukari
+    Veri Bagi ve istege bagli Asagi Veri Bagi \r\n4 150 km menzil \r\n\r\nAktif Faz
+    Dizinli Uzun Menzilli Arama Radari (UMR) \r\n1 S-Bant \r\n2 Uzun menzilli hacim
+    arama, \r\n3 Hava ve su\xFCst\xFC hedeflerin tespit ve takibi, \r\n4 450 km menzil
+    \r\n5 Iz kapasitesi > 2000 "
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -283,5 +290,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 461.6}
+  m_SizeDelta: {x: 0, y: 998.4}
   m_Pivot: {x: 0, y: 1}

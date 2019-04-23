@@ -21,7 +21,8 @@ MonoBehaviour:
     type: 2}
   TransparentObjects:
   - sidePanel
-  BlinkingObjects: []
+  BlinkingObjects:
+  - navigation
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
   HeaderText: GYRO SYSTEM

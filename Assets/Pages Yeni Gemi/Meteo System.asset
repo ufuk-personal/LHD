@@ -16,12 +16,13 @@ MonoBehaviour:
   - {fileID: 1385111823481038, guid: f8ad33ea5208bcf4aaf2cf4ba012e749, type: 2}
   Images:
   - {fileID: 21300000, guid: 83405abbf9f1fae44960ec674efdcc8b, type: 3}
-  TextPrefab: {fileID: 0}
+  TextPrefab: {fileID: 1546654663387790, guid: 6acf9370e05d22b41b391a34eeafee07, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: bf5d6d2333c3ca24da44802bd7fa51f6,
     type: 2}
   TransparentObjects:
   - sidePanel
-  BlinkingObjects: []
+  BlinkingObjects:
+  - navigation
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
   HeaderText: DEMES SYSTEM
