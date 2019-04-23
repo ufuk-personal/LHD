@@ -21,6 +21,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: e0e915e4b321ff141ab8b763d20c6872, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: d9fbe7eb7b05e3f488565570b978857d,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: HULL MOUNTED SONAR
   HeaderTextTR: "KAR\u0130NAYA MONTEL\u0130 S\u0130STEM"
-  CameraPathID: 10
+  CameraPathID: 23

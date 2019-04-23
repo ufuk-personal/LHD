@@ -19,6 +19,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: 96790d4d383b8c64cb270d3dd15db3c5, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: 127bb50fb5bc77e44b0889a710f37d2b,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: "SH\u0130P INFO"
   HeaderTextTR: "GEM\u0130 B\u0130LG\u0130LER\u0130"
-  CameraPathID: 10
+  CameraPathID: 23

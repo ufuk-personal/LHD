@@ -19,6 +19,10 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: e0192e690585b92499e3dfd41dc476c7, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: d9fbe7eb7b05e3f488565570b978857d,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: "EXTERNAL COMMUNUN\u0130CAT\u0130ON"
   HeaderTextTR: "HAR\u0130C\u0130 HABERLE\u015EME"
-  CameraPathID: 10
+  CameraPathID: 23

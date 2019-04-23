@@ -18,5 +18,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 7ed8c817fe8212140a6cba93904436a4, type: 3}
   - {fileID: 21300000, guid: 94dc81d578894fb41ba2f8ad260f86a5, type: 3}
   TextPrefab: {fileID: 1819035244549908, guid: ea772a61ff856e94c8a10198ddd56951, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - par
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: PRECISION APPROACH RADAR ( PAR )
+  HeaderTextTR: 
   CameraPathID: 16
