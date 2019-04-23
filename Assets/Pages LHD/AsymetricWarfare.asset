@@ -17,5 +17,12 @@ MonoBehaviour:
   Images:
   - {fileID: 21300000, guid: 184a3deb3a6aa554b9a4e09f810cbd40, type: 3}
   TextPrefab: {fileID: 1080178528081520, guid: cb768e55d9cdc274aad1fa0385c5886f, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - stop
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ASYMETRIC WARFARE ( ASELSAN STOP )
+  HeaderTextTR: 
   CameraPathID: 18

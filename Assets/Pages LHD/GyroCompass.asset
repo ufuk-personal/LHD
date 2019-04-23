@@ -17,5 +17,12 @@ MonoBehaviour:
   Images:
   - {fileID: 21300000, guid: 3f96307790f5b2740a78beec7d0e8323, type: 3}
   TextPrefab: {fileID: 1370521119946132, guid: 4ddb620b3b0c8ef49a896e1d1224b0f9, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - gyro_compas
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: GYRO COMPASS SYSTEM
+  HeaderTextTR: 
   CameraPathID: 7

@@ -18,5 +18,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: cd32abac4ebcfa748880b7cf95a15557, type: 3}
   - {fileID: 21300000, guid: 8888436bd9ac1e644885b1703caa0ebe, type: 3}
   TextPrefab: {fileID: 1811604452916342, guid: acfa83a20bd98b54898e567a1552f6a0, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - log
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ELECTROMAGNETIC LOG SYSTEM ( AGILOG )
+  HeaderTextTR: 
   CameraPathID: 9

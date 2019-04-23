@@ -20,6 +20,11 @@ MonoBehaviour:
   Images: []
   TextPrefab: {fileID: 0}
   TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - electro
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ELECTRO-OPTICS
   HeaderTextTR: 
   CameraPathID: -1

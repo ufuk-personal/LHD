@@ -19,6 +19,11 @@ MonoBehaviour:
   TextPrefab: {fileID: 1235541923994664, guid: 9e3e2e1ed8df44247a3c2468aa63de21, type: 2}
   TextPrefabTR: {fileID: 1235541923994664, guid: 9e3e2e1ed8df44247a3c2468aa63de21,
     type: 2}
+  TransparentObjects: []
+  BlinkingObjects:
+  - airtraffic_f_a
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: AIR TRAFFIC CONTROL RADAR
   HeaderTextTR: 
   CameraPathID: 17

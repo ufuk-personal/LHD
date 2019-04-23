@@ -18,5 +18,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9090aec7c2554c542a8a7f3c6e19807d, type: 3}
   - {fileID: 21300000, guid: 9090aec7c2554c542a8a7f3c6e19807d, type: 3}
   TextPrefab: {fileID: 1577845362049920, guid: 6d6f9751b30c9db43a995bd67a8ed2e8, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - magnetic
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: MAGNETIC COMPASS
+  HeaderTextTR: 
   CameraPathID: 5

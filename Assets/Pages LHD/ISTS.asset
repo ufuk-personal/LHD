@@ -17,5 +17,12 @@ MonoBehaviour:
   Images:
   - {fileID: 21300000, guid: 01714a13d6707444184aefd2e39deb40, type: 3}
   TextPrefab: {fileID: 1699361672399440, guid: e0101e83ade5d5d4a99224cc4c7f1374, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - "\u0131sts"
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: INFRA-RED SEARCH AND TRACK SYSTEM ( ASELSAN PIRI )
+  HeaderTextTR: 
   CameraPathID: 11

@@ -19,5 +19,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2c3d440a82cd00049acb2417edd905ca, type: 3}
   - {fileID: 21300000, guid: 5d9260ec08c18114995cba15d7cbd3aa, type: 3}
   TextPrefab: {fileID: 1937868426053432, guid: 8fcad89f427df62428625d0d194c6072, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - tacan
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: TACTICAL AIR NAVIGATION ( TACAN )
+  HeaderTextTR: 
   CameraPathID: 12

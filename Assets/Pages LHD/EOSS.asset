@@ -17,5 +17,12 @@ MonoBehaviour:
   Images:
   - {fileID: 21300000, guid: 024110eee89bb414490d296a9c097c72, type: 3}
   TextPrefab: {fileID: 1222889191507752, guid: 7c6d66fdc0db74c48a0657aa45848f54, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - eoss
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: ELECTRO-OPTICAL SURVEILLANCE SYSTEM ( ASELSAN AHTAPOT )
+  HeaderTextTR: 
   CameraPathID: 10

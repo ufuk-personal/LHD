@@ -30,5 +30,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c1c062cdf779fd94ea8af7e9e1e66390, type: 3}
   - {fileID: 21300000, guid: 34a672d51ad2a994795b2e44c31ad285, type: 3}
   TextPrefab: {fileID: 1344621257493674, guid: 7bc739204bdfbfb46b1bd4e13c7aa850, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - meteorological
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: METEOROLOGICAL MEASUREMENT SYSTEM
+  HeaderTextTR: 
   CameraPathID: 6

@@ -16,5 +16,12 @@ MonoBehaviour:
   - {fileID: 1385111823481038, guid: 33de20a4c98b9be449408dedff283580, type: 2}
   Images: []
   TextPrefab: {fileID: 1982706374394348, guid: 76b02282a11691f40976257e761b72bf, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - navigatorradar
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: NAVIGATION RADAR
+  HeaderTextTR: 
   CameraPathID: 15

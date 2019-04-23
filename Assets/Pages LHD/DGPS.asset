@@ -20,5 +20,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ef43ff3cab1f86f4183b5cf581d91993, type: 3}
   - {fileID: 21300000, guid: a6a96b7bd90dec740be003fd6297e40d, type: 3}
   TextPrefab: {fileID: 1520599739395720, guid: 0f8986c18c1770b43855aca1c1b0176e, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - dgps
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: DGPS
+  HeaderTextTR: 
   CameraPathID: 4

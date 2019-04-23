@@ -18,5 +18,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c6326a3e458cc1d4f98e02e097613d1a, type: 3}
   - {fileID: 21300000, guid: 8135c024862f1e34497d13224ddf660d, type: 3}
   TextPrefab: {fileID: 1995391589762246, guid: 613b7ff2bb725da409cf628dc80cac91, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - wecdis
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: WECDIS AND DIGITAL PLOTTING TABLE ( ASELSAN MITOS )
+  HeaderTextTR: 
   CameraPathID: 8

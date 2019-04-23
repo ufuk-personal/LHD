@@ -20,5 +20,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: f27a6cd2c3283144fa492173cc8ee585, type: 3}
   - {fileID: 21300000, guid: 7e46741cc94548041b7fa663de1792e0, type: 3}
   TextPrefab: {fileID: 1001242338657988, guid: bb11163150e8b0447b0b54dce69972a7, type: 2}
+  TextPrefabTR: {fileID: 0}
+  TransparentObjects: []
+  BlinkingObjects:
+  - echosounder
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: "ECHOSOUNDER (ASELSAN KULA\xC7)"
+  HeaderTextTR: 
   CameraPathID: 9
