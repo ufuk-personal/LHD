@@ -115,7 +115,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "TORPIDO KARSI \xD6NLEM\n( ASELSAN HIZIR )"
+  m_Text: "TORPIDO KARSI \xD6NLEM\n( ASELSAN HIZIR ) TR"
 --- !u!114 &114238840433724540
 MonoBehaviour:
   m_ObjectHideFlags: 1
