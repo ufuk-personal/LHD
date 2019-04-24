@@ -186,6 +186,8 @@ public class FoldPanel : MonoBehaviour {
             return;
         }
 
+        Camera.main.fieldOfView = 60f;
+
         OnClosePageObjects(lastOpenPage);
         OnOpenPageObjects(pageIdentifier);
         
