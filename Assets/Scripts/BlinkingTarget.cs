@@ -28,7 +28,7 @@ public class BlinkingTarget : MonoBehaviour {
     public IEnumerator Blink() {
 
         yield return new WaitForEndOfFrame();
-        blinkProgress += Time.deltaTime;
+        blinkProgress += Time.deltaTime*2f;
         if (blinkProgress > 360f)
         {
             blinkProgress = blinkProgress % 360;
@@ -36,15 +36,19 @@ public class BlinkingTarget : MonoBehaviour {
 
         Renderer r = this.GetComponent<Renderer>();
         Color currentColor = r.material.color;
-        float greenValue = originalColorMaterial.g + Mathf.Abs(Mathf.Sin(blinkProgress)) * (1.0f - originalColorMaterial.g);
-        currentColor.g = greenValue;
+        currentColor.g = originalColorMaterial.g + Mathf.Abs(Mathf.Sin(blinkProgress)) * (1.0f - originalColorMaterial.g);
+        currentColor.r = 0.4f + 0.6f * Mathf.Abs(Mathf.Sin(blinkProgress)) * (originalColorMaterial.r);
+        currentColor.b = 0.4f + 0.6f * Mathf.Abs(Mathf.Sin(blinkProgress)) * (originalColorMaterial.b);
+
         r.material.SetColor("_Color", currentColor);
 
         for( int i = 0; i < r.materials.Length; i++)
         {
             currentColor = r.materials[i].color;
-            greenValue = originalColorMaterials[i].g + Mathf.Abs(Mathf.Sin(blinkProgress)) * (1.0f - originalColorMaterials[i].g);
-            currentColor.g = greenValue;
+            currentColor.g = originalColorMaterials[i].g + Mathf.Abs(Mathf.Sin(blinkProgress)) * (1.0f - originalColorMaterials[i].g);
+            currentColor.r = 0.4f + 0.6f * Mathf.Abs(Mathf.Sin(blinkProgress)) * (originalColorMaterials[i].r);
+            currentColor.b = 0.4f + 0.6f * Mathf.Abs(Mathf.Sin(blinkProgress)) * (originalColorMaterials[i].b);
+
             r.materials[i].SetColor("_Color", currentColor);
         }
 
@@ -56,13 +60,18 @@ public class BlinkingTarget : MonoBehaviour {
 
         Renderer r = this.GetComponent<Renderer>();
         Color currentColor = r.material.color;
+        currentColor.r = originalColorMaterial.r;
         currentColor.g = originalColorMaterial.g;
+        currentColor.b = originalColorMaterial.b;
+
         r.material.SetColor("_Color", currentColor);
 
         for (int i = 0; i < r.materials.Length; i++)
         {
             currentColor = r.materials[i].color;
+            currentColor.r = originalColorMaterials[i].r;
             currentColor.g = originalColorMaterials[i].g;
+            currentColor.b = originalColorMaterials[i].b;
             r.materials[i].SetColor("_Color", currentColor);
         }
 

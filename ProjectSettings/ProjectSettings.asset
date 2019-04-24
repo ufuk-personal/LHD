@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Aselsan
-  productName: LHD
+  productName: Yeni
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.084905684, g: 0.082102194, b: 0.08280307, a: 1}
@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Aselsan.LHD
+    Android: com.Aselsan.Yeni
     Standalone: com.Aselsan.LHD
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -246,7 +246,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Aselsan/LHD/user.keystore
+  AndroidKeystoreName: C:/Users/Ufuk/Desktop/Animanya Aselsan/LHD/user.keystore
   AndroidKeyaliasName: aselsan lhd
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1

@@ -2,8 +2,8 @@
 
 public class PinchZoom : MonoBehaviour
 {
-    public float perspectiveZoomSpeed = 0.5f;        // The rate of change of the field of view in perspective mode.
-    public float orthoZoomSpeed = 0.5f;        // The rate of change of the orthographic size in orthographic mode.
+    public float perspectiveZoomSpeed = 0.2f;        // The rate of change of the field of view in perspective mode.
+    public float orthoZoomSpeed = 0.2f;        // The rate of change of the orthographic size in orthographic mode.
 
 
     void Update()
@@ -41,7 +41,7 @@ public class PinchZoom : MonoBehaviour
                 Camera.main.fieldOfView += deltaMagnitudeDiff * perspectiveZoomSpeed;
 
                 // Clamp the field of view to make sure it's between 0 and 180.
-                Camera.main.fieldOfView = Mathf.Clamp(Camera.main.fieldOfView, 0.1f, 179.9f);
+                Camera.main.fieldOfView = Mathf.Clamp(Camera.main.fieldOfView, 1f, 90f);
             }
         }
     }

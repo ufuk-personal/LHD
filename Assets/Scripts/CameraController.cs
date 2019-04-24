@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
     public LookAtConstraint cameraLookAt;
     public float switchSpeed = 5f;
     private int currentPathID = 0;
-
+    private bool manualControlMode = false;
     public static CameraController Instance = null;
     // Use this for initialization
     void Awake()
@@ -36,8 +36,82 @@ public class CameraController : MonoBehaviour
         SwitchToPath(0);
     }
 
+    public Vector3 CameraManualStartPosition;
+    public Vector3 CameraManualStartRotation;
+
+    public void ActivateManualControl() {
+        manualControlMode = true;
+        this.cameraWalker.enabled = false;
+        this.cameraLookAt.enabled = false;
+        readyToMove = false;
+        StopAllCoroutines();
+        StartCoroutine(MoveCameraManuallyToTarget());
+        cameraWalker.transform.rotation = Quaternion.Euler(CameraManualStartRotation);
+    }
+
+    public void DeactivateManualControl() {
+        manualControlMode = false;
+        this.cameraWalker.enabled = true;
+        this.cameraLookAt.enabled = true;
+        StopAllCoroutines();
+    }
+    public void Update()
+    {
+        if (readyToMove)
+        {
+            if (manualControlMode && Input.GetMouseButton(0) && !Input.GetMouseButtonDown(0))
+            {
+                if (Input.touchCount == 1)
+                {
+                    Vector3 displacement = new Vector3(-Input.GetAxis("Mouse X"), 0, -Input.GetAxis("Mouse Y"));
+                    Quaternion displacementRotation = Quaternion.Euler(0, cameraWalker.transform.rotation.eulerAngles.y, 0);
+                    displacement = displacementRotation * displacement;
+                    displacement.Normalize();
+                    displacement = displacement * Time.deltaTime * 15f;
+                    this.cameraWalker.transform.Translate(displacement, Space.World);
+                }
+            }
+            if (Input.GetKey(KeyCode.A))
+            {
+                this.cameraWalker.transform.Rotate(new Vector3(0, 10, 0), Space.World);
+            }
+            if (Input.GetKey(KeyCode.D))
+            {
+                this.cameraWalker.transform.Rotate(new Vector3(0, -10, 0), Space.World);
+            }
+        }
+
+        
+        if (Input.GetKey(KeyCode.W))
+        {
+            Camera.main.fieldOfView += Time.deltaTime * 10f;
+        }
+        if (Input.GetKey(KeyCode.S))
+        {
+            Camera.main.fieldOfView -= Time.deltaTime * 10f;
+        }
+    }
+
+    public bool readyToMove = false;
+
+    public IEnumerator MoveCameraManuallyToTarget()
+    {
+        yield return new WaitForEndOfFrame();
+        cameraWalker.transform.position = Vector3.Lerp(cameraWalker.transform.position, CameraManualStartPosition, 0.1f);
+        if(Vector3.Distance(cameraWalker.transform.position, CameraManualStartPosition) < 0.1f){
+            cameraWalker.transform.position = CameraManualStartPosition;
+            readyToMove = true;
+            yield return null;
+        }
+        else
+        {
+            yield return MoveCameraManuallyToTarget();
+        }
+    }
+
     public void SwitchToPath(int pathID)
     {
+        DeactivateManualControl();
         if (this.currentPathID != pathID)
         {
             this.currentPathID = pathID;
