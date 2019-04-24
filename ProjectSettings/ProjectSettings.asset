@@ -246,7 +246,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/Ufuk/Desktop/Animanya Aselsan/LHD/user.keystore
+  AndroidKeystoreName: D:/Aselsan/LHD/user.keystore
   AndroidKeyaliasName: aselsan lhd
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1

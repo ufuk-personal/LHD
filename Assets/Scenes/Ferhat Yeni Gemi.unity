@@ -4921,6 +4921,101 @@ Prefab:
       propertyPath: m_Name
       value: SettingsPanel (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114990332185203286, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990332185203286, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990332185203286, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114747134405868780, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114747134405868780, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114747134405868780, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_EffectColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114293301405225060, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114293301405225060, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114293301405225060, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990332185203286, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114747134405868780, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114018976178170068, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_RaycastTarget
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_PreserveAspect
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114537006872024748, guid: ae8fa5a91157eca418d2fa1aa9415671,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae8fa5a91157eca418d2fa1aa9415671, type: 2}
   m_IsPrefabAsset: 0
@@ -9063,8 +9158,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcc9c64e54a08464b8bd97908f15b8c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  perspectiveZoomSpeed: 0.2
-  orthoZoomSpeed: 0.2
+  perspectiveZoomSpeed: 0.05
+  orthoZoomSpeed: 0.05
 --- !u!1001 &536008760
 Prefab:
   m_ObjectHideFlags: 0
@@ -11710,7 +11805,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 7990d8f87433f994aa3c72bfd0b598e3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c698e7e636815d741b8330fb32a1044a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
