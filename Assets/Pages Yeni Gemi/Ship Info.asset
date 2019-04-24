@@ -23,6 +23,6 @@ MonoBehaviour:
   BlinkingObjects: []
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: "SH\u0130P INFO"
+  HeaderText: SHIP INFO
   HeaderTextTR: "GEM\u0130 B\u0130LG\u0130LER\u0130"
   CameraPathID: 23

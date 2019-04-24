@@ -110,24 +110,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>ALPER</b></color>\r\n\r\n<i>At\u0131\u015F Kontrol Radar\u0131</i>\r\n<i>Birlikte
-    \xE7al\u0131\u015Ft\u0131\u011F\u0131 sens\xF6rlerden veya radar operat\xF6r\xFCnden
-    ald\u0131\u011F\u0131 ilk hedef bilgisine otomatik olarak y\xF6nlenerek hedefi
-    arayan, hedefe kilitlenen ve hedefe ait iz bilgilerini 3-boyutlu olarak y\xFCksek
-    hassasiyette \xFCreten bir radar sistemidir. Silah sisteminin at\u0131\u015F kontrol
-    yeteneklerini destekleyen geli\u015Fmi\u015F elektronik korunma \xF6zelliklerine
-    sahip, y\xFCksek performansl\u0131, tamamen milli bir sistemdir.</i>\r\n\r\n120
-    km etkinlik menzili\r\nX-Bant f\xFCze ayd\u0131nlatma (sadece B2)\r\n30 / +120
-    derece irtifa kapsama\r\nKat\u0131hal g\xF6nderme alma mod\xFClleri\r\nKar\u0131\u015Ft\u0131r\u0131c\u0131
-    tespit-takip\r\n\xC7oklu hedef takip\r\nElektro-optik sens\xF6r paketi\r\nLazer
-    Mesafe Bulucu\r\nTermal Kamera\r\nG\xFCnd\xFCz G\xF6r\xFC\u015F Kameras\u0131\r\nPasif
-    E/O takip\r\nHedef s\u0131n\u0131fland\u0131rma\r\nSYS kanal\u0131yla pasif (slave)
-    takip\r\nY\xFCksek do\u011Frulukla hedef raporlama\r\nAt\u0131\u015F \xF6ncesi
-    (pre-action) kalibrasyon deste\u011Fi\r\nAt\u0131\u015F s\u0131ras\u0131nda (in-action)
-    d\xFCzeltme deste\u011Fi\r\nMermi sapma hesab\u0131 (miss distance indication)\r\nVuru\u015F
-    de\u011Ferlendirme (kill assessment)\r\nAyr\u0131lan hedef alarm\u0131\r\nSekt\xF6r
-    Arama ve Sekt\xF6r Karartma\r\nGeli\u015Fmi\u015F EKKT (Elektronik Kar\u015F\u0131-kar\u015F\u0131
-    Tedbir)\r\n"
+  m_Text: "<color=#ffff00><b>ALPER</b></color>\r\n\r\n<i>LPI Seyir Radar\u0131</i>\r\n<i>Deniz
+    y\xFCzeyinde hareket eden her t\xFCrl\xFC su \xFCst\xFC hedefinin her t\xFCrl\xFC
+    hava ko\u015Fullar\u0131nda tespitini sa\u011Flayan, tespit ederken tespit edilmeme
+    \xF6zelli\u011Fine sahip bir Gemi LPI (Low Probability of Intercept) Radar\u0131d\u0131r</i>\r\n\r\nX-Bant\r\nFrequency
+    \xF6zelli\u011Fi FMCW\r\n36 mil etkili menzil\r\nSe\xE7ilebilir \xE7\u0131k\u0131\u015F
+    g\xFCc\xFC 1 W, 0.1 W 0.01W, 0.001W\r\nMesafe \xC7\xF6z\xFCn\xFCrl\xFC\u011F\xFC
+    12 mil skalas\u0131nda 2.5 m.Mevcut seyir radar\u0131 sistemleriyle entegre edilebilirlik"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -291,6 +280,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 901.3}
+  m_AnchoredPosition: {x: 0, y: -0.000010751856}
+  m_SizeDelta: {x: 0, y: 526}
   m_Pivot: {x: 0, y: 1}

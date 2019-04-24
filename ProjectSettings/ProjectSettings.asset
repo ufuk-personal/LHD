@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Aselsan
-  productName: Yeni
+  productName: LHD
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.084905684, g: 0.082102194, b: 0.08280307, a: 1}
@@ -264,7 +264,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: f7412a88da1255d4483686bacf9bec37, type: 3}
+      m_Icon: {fileID: 2800000, guid: a73e1f62f7250574097645a3f553f0c3, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

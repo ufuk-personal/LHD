@@ -23,6 +23,6 @@ MonoBehaviour:
   BlinkingObjects: []
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: "INTERNAL COMMUN\u0130CAT\u0130ON"
+  HeaderText: INTERNAL COMMUNICATION
   HeaderTextTR: "DAH\u0130L\u0130 HABERLE\u015EME"
   CameraPathID: 23

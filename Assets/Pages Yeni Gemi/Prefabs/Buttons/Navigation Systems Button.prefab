@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "NAV\u0130GAT\u0130ON SYSTEMS"
+  m_Text: NAVIGATION SYSTEMS
 --- !u!114 &114957088913428546
 MonoBehaviour:
   m_ObjectHideFlags: 1

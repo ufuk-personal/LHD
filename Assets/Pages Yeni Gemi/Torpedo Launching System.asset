@@ -25,6 +25,6 @@ MonoBehaviour:
   - torpedo
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: "TORPEDO LAUCH\u0130NG SYSTEM"
+  HeaderText: TORPEDO LAUCHING SYSTEM
   HeaderTextTR: "TORP\u0130DO ATICI S\u0130STEM"
   CameraPathID: 15

@@ -9145,7 +9145,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
   m_Name: 
@@ -18591,6 +18591,7 @@ GameObject:
   - component: {fileID: 1018703103}
   - component: {fileID: 1018703102}
   - component: {fileID: 1018703104}
+  - component: {fileID: 1018703105}
   m_Layer: 0
   m_Name: Box122
   m_TagString: Untagged
@@ -18671,6 +18672,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: navigation
+--- !u!114 &1018703105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1018703100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3145a74effe5cc14f9a181f8a5d83a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: vatoz
 --- !u!1 &1023184638
 GameObject:
   m_ObjectHideFlags: 0
@@ -19773,7 +19786,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1627647907704212, guid: 992295566f85ed1449fd98517c100e40, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 992295566f85ed1449fd98517c100e40, type: 2}
@@ -24742,7 +24755,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1242638058648346, guid: 816e751551f51434d8e0d5ac6aa57fc0, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 816e751551f51434d8e0d5ac6aa57fc0, type: 2}
@@ -25209,6 +25222,7 @@ GameObject:
   - component: {fileID: 1421710518}
   - component: {fileID: 1421710517}
   - component: {fileID: 1421710519}
+  - component: {fileID: 1421710520}
   m_Layer: 0
   m_Name: Object281
   m_TagString: Untagged
@@ -25287,6 +25301,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: navigation
+--- !u!114 &1421710520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1421710515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3145a74effe5cc14f9a181f8a5d83a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: vatoz
 --- !u!1 &1422267580
 GameObject:
   m_ObjectHideFlags: 0
@@ -33975,6 +34001,7 @@ GameObject:
   - component: {fileID: 1939199612}
   - component: {fileID: 1939199611}
   - component: {fileID: 1939199613}
+  - component: {fileID: 1939199614}
   m_Layer: 0
   m_Name: Object280
   m_TagString: Untagged
@@ -34053,6 +34080,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: navigation
+--- !u!114 &1939199614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1939199609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3145a74effe5cc14f9a181f8a5d83a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: vatoz
 --- !u!1 &1940522721
 GameObject:
   m_ObjectHideFlags: 0

@@ -21,9 +21,10 @@ MonoBehaviour:
     type: 2}
   TransparentObjects:
   - sidePanel
-  BlinkingObjects: []
+  BlinkingObjects:
+  - vatoz
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
   HeaderText: COMBAT MANAGEMENT SYSTEMS
   HeaderTextTR: "SAVA\u015E Y\xD6NET\u0130M S\u0130STEM\u0130"
-  CameraPathID: 23
+  CameraPathID: 10

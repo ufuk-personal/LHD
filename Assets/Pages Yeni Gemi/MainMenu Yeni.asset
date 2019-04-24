@@ -27,6 +27,10 @@ MonoBehaviour:
   Images: []
   TextPrefab: {fileID: 0}
   TextPrefabTR: {fileID: 0}
-  HeaderText: "Geminin \u0130smi"
-  HeaderTextTR: "Geminin \u0130smi"
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: F.223
+  HeaderTextTR: F.223
   CameraPathID: 0

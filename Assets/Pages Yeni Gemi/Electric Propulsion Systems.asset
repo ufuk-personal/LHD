@@ -23,6 +23,6 @@ MonoBehaviour:
   BlinkingObjects: []
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: "ELECTRIC PROPULS\u0130ON SYSTEM"
+  HeaderText: ELECTRIC PROPULSION SYSTEM
   HeaderTextTR: "ELEKT\u0130R\u0130KL\u0130 TAHR\u0130K S\u0130STEM\u0130"
   CameraPathID: 23

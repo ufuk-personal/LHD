@@ -110,17 +110,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<color=#ffff00><b>Karinaya Monteli Sonar Sistemi</b></color>\r\n\r\n<i>Hull
-    Mounted Sonar System</i>\r\n<i>ASELSAN Hull Mounted Sonar for surface ships, detects
-    threat submarine, torpedo and mine and with the early warning makes it possible
-    to have a suitable reaction time. In addition; with simulation capability, it
-    makes easier training.</i>\r\n\r\n\u2022\tAnti-Submarine Warfare (ASW) Mode\r\n\u2022\tHorizontal
-    360\xB0 coverage\r\n\u2022\tSonar Signal Processing (Active/ Passive)\r\n\u2022\tActive:
-    6.7 kHz, 7.5 kHz, 8.4 kHz\r\n\u2022\tPassive: 3 kHz \u2013 10 kHz\r\n\u2022\t
-    Mine Avoidance Sonar (MAS)  Mode\r\n\u2022\tHorizontal 90\xB0 coverage\r\n\u2022\tSonar
-    Signal Processing (Aktive)\r\n\u2022\tActive: 7,5kHz\r\n\u2022\tCompliant with
-    Military Standartds\r\n\u2022\tCan be integrated to HIZIR Torpedo Countermeasure
-    System"
+  m_Text: "<color=#ffff00><b>FERSAH</b></color>\r\n\r\n<i>Hull Mounted Sonar System</i>\r\n<i>ASELSAN
+    Hull Mounted Sonar for surface ships, detects threat submarine, torpedo and mine
+    and with the early warning makes it possible to have a suitable reaction time.
+    In addition; with simulation capability, it makes easier training.</i>\r\n\r\n\u2022\tAnti-Submarine
+    Warfare (ASW) Mode\r\n\u2022\tHorizontal 360\xB0 coverage\r\n\u2022\tSonar Signal
+    Processing (Active/ Passive)\r\n\u2022\tActive: 6.7 kHz, 7.5 kHz, 8.4 kHz\r\n\u2022\tPassive:
+    3 kHz \u2013 10 kHz\r\n\u2022\t Mine Avoidance Sonar (MAS)  Mode\r\n\u2022\tHorizontal
+    90\xB0 coverage\r\n\u2022\tSonar Signal Processing (Aktive)\r\n\u2022\tActive:
+    7,5kHz\r\n\u2022\tCompliant with Military Standartds\r\n\u2022\tCan be integrated
+    to HIZIR Torpedo Countermeasure System"
 --- !u!114 &114218179328007194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -284,6 +283,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0.000061021954}
   m_SizeDelta: {x: 0, y: 623.9}
   m_Pivot: {x: 0, y: 1}

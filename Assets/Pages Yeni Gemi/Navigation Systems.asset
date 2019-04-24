@@ -28,6 +28,6 @@ MonoBehaviour:
   BlinkingObjects: []
   PageSpecificHiddenObjects: []
   PageSpecificVisibleObjects: []
-  HeaderText: "NAV\u0130GAT\u0130ON SYSTEMS"
+  HeaderText: NAVIGATION SYSTEMS
   HeaderTextTR: "SEY\u0130R S\u0130STEMLER\u0130"
-  CameraPathID: 10
+  CameraPathID: 23

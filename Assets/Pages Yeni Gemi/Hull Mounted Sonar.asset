@@ -19,7 +19,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 011ca5ff9258f454196e6b216b3188f9, type: 3}
   - {fileID: 21300000, guid: eacca11e59a7cdd4c83930c9a06e896c, type: 3}
   TextPrefab: {fileID: 1546654663387790, guid: e0e915e4b321ff141ab8b763d20c6872, type: 2}
-  TextPrefabTR: {fileID: 1546654663387790, guid: d9fbe7eb7b05e3f488565570b978857d,
+  TextPrefabTR: {fileID: 1546654663387790, guid: 29cf0b9820b55144b949724af5bc4b28,
     type: 2}
   TransparentObjects: []
   BlinkingObjects: []

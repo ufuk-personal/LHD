@@ -22,6 +22,10 @@ MonoBehaviour:
   Images: []
   TextPrefab: {fileID: 0}
   TextPrefabTR: {fileID: 0}
-  HeaderText: Radar Systems
-  HeaderTextTR: Radar Sistemler
+  TransparentObjects: []
+  BlinkingObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
+  HeaderText: RADAR SYSTEM
+  HeaderTextTR: "RADAR S\u0130STEM"
   CameraPathID: -1
