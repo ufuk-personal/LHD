@@ -19,8 +19,7 @@ MonoBehaviour:
   TextPrefab: {fileID: 1546654663387790, guid: b32fd8d1205562046bffafd3ac84b389, type: 2}
   TextPrefabTR: {fileID: 1546654663387790, guid: e179d2038af177442a16205e82e08b6f,
     type: 2}
-  TransparentObjects:
-  - sidePanel
+  TransparentObjects: []
   BlinkingObjects:
   - navigation
   PageSpecificHiddenObjects: []

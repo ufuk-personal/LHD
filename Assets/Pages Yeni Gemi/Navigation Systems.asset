@@ -24,10 +24,10 @@ MonoBehaviour:
   Images: []
   TextPrefab: {fileID: 0}
   TextPrefabTR: {fileID: 0}
-  TransparentObjects:
-  - sidePanel
+  TransparentObjects: []
   BlinkingObjects: []
-  PageSpecificObjects: []
+  PageSpecificHiddenObjects: []
+  PageSpecificVisibleObjects: []
   HeaderText: "NAV\u0130GAT\u0130ON SYSTEMS"
   HeaderTextTR: "SEY\u0130R S\u0130STEMLER\u0130"
   CameraPathID: 10

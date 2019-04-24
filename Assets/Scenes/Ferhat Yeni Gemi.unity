@@ -2882,9 +2882,13 @@ MonoBehaviour:
   - {fileID: 651404524}
   - {fileID: 60416202}
   cameraLookAt: {fileID: 534669907}
+  cameraManuelMovementSpeed: 5
   switchSpeed: 5
   CameraManualStartPosition: {x: -10, y: 10, z: -10}
   CameraManualStartRotation: {x: 35, y: 45, z: 0}
+  cameraHandle: {fileID: 1611710676}
+  pcCameraRotationSpeed: 30
+  pcCameraZoomSpeed: 10
   readyToMove: 0
 --- !u!1 &200659743
 GameObject:

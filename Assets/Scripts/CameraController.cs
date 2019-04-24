@@ -10,6 +10,7 @@ public class CameraController : MonoBehaviour
     public List<CameraPath> allPaths;
     public Dictionary<int, CameraPath> pathCache;
     public LookAtConstraint cameraLookAt;
+    public float cameraManuelMovementSpeed = 15f;
     public float switchSpeed = 5f;
     private int currentPathID = 0;
     private bool manualControlMode = false;
@@ -55,40 +56,46 @@ public class CameraController : MonoBehaviour
         this.cameraLookAt.enabled = true;
         StopAllCoroutines();
     }
+    public GameObject cameraHandle;
+    public float pcCameraRotationSpeed = 30f;
+    public float pcCameraZoomSpeed = 10f;
+
     public void Update()
     {
         if (readyToMove)
         {
             if (manualControlMode && Input.GetMouseButton(0) && !Input.GetMouseButtonDown(0))
             {
-                if (Input.touchCount == 1)
+                if (Input.touchCount < 2)
                 {
                     Vector3 displacement = new Vector3(-Input.GetAxis("Mouse X"), 0, -Input.GetAxis("Mouse Y"));
                     Quaternion displacementRotation = Quaternion.Euler(0, cameraWalker.transform.rotation.eulerAngles.y, 0);
                     displacement = displacementRotation * displacement;
                     displacement.Normalize();
-                    displacement = displacement * Time.deltaTime * 15f;
+                    displacement = displacement * Time.deltaTime * cameraManuelMovementSpeed * (Camera.main.fieldOfView / 20f);
                     this.cameraWalker.transform.Translate(displacement, Space.World);
                 }
             }
             if (Input.GetKey(KeyCode.A))
             {
-                this.cameraWalker.transform.Rotate(new Vector3(0, 10, 0), Space.World);
+                this.cameraHandle.transform.Rotate(new Vector3(0, pcCameraRotationSpeed * Time.deltaTime, 0), Space.World);
             }
             if (Input.GetKey(KeyCode.D))
             {
-                this.cameraWalker.transform.Rotate(new Vector3(0, -10, 0), Space.World);
+                this.cameraHandle.transform.Rotate(new Vector3(0, -pcCameraRotationSpeed * Time.deltaTime, 0), Space.World);
             }
         }
 
         
         if (Input.GetKey(KeyCode.W))
         {
-            Camera.main.fieldOfView += Time.deltaTime * 10f;
+            Camera.main.fieldOfView -= Time.deltaTime * pcCameraZoomSpeed;
+            Camera.main.fieldOfView = Mathf.Clamp(Camera.main.fieldOfView, 1, 90);
         }
         if (Input.GetKey(KeyCode.S))
         {
-            Camera.main.fieldOfView -= Time.deltaTime * 10f;
+            Camera.main.fieldOfView += Time.deltaTime * pcCameraZoomSpeed;
+            Camera.main.fieldOfView = Mathf.Clamp(Camera.main.fieldOfView, 1, 90);
         }
     }
 
